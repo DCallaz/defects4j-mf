@@ -2,7 +2,7 @@
 ## Description
 This repository includes all the necessary scripts and files needed to create a
 multi-fault dataset from the original Defects4J single-fault dataset. It does so
-by adding in the test transplantation done by [An et.  al.](github.com/coinse/Defects4J-multifault),
+by adding in the test transplantation done by [An et.  al.](https://www.github.com/coinse/Defects4J-multifault),
 and the bug identification Done by [Dylan Callaghan and Bernd
 Fischer](github.com/DCallaz/bug-backtrack).
 ## Setup
