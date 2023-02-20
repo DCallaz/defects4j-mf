@@ -33,105 +33,105 @@
 ,"3": {"2":{"org/jfree/data/general/DatasetUtilities.java":[754, 755, 756, 757, 758, 760, 761, 1230, 1231, 1232, 1233, 1234, 1236, 1237]}}
 ,"4": {"2":{"org/jfree/data/general/DatasetUtilities.java":[752, 753, 754, 755, 756, 758, 759, 1228, 1229, 1230, 1231, 1232, 1234, 1235]}}
 ,"5": {"2":{"org/jfree/data/general/DatasetUtilities.java":[692, 693, 694, 695, 696, 698, 699, 912, 913, 914, 915, 916, 918, 919]}}
-,"6": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 904, 905, 906, 907, 908, 910, 911]}}
-,"7": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 904, 905, 906, 907, 908, 910, 911]}}
-,"8": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 904, 905, 906, 907, 908, 910, 911]}}
-,"9": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 904, 905, 906, 907, 908, 910, 911]}}
-,"10": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 904, 905, 906, 907, 908, 910, 911]}}
-,"11": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 904, 905, 906, 907, 908, 910, 911]}}
-,"12": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 904, 905, 906, 907, 908, 910, 911]}}
-,"13": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 893, 894, 895, 896, 897, 899, 900]}}
-,"14": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 893, 894, 895, 896, 897, 899, 900]}}
-,"15": {"2":{"org/jfree/data/general/DatasetUtilities.java":[683, 684, 685, 686, 687, 856, 857, 858, 859, 860, 862, 863]}}
-,"16": {"2":{"org/jfree/data/general/DatasetUtilities.java":[683, 684, 685, 686, 687, 856, 857, 858, 859, 860, 862, 863]}}
-,"17": {"2":{"org/jfree/data/general/DatasetUtilities.java":[683, 684, 685, 686, 687, 856, 857, 858, 859, 860, 862, 863]}}
-,"18": {"2":{"org/jfree/data/general/DatasetUtilities.java":[683, 684, 685, 686, 687, 856, 857, 858, 859, 860, 862, 863]}}
-,"19": {"2":{"org/jfree/data/general/DatasetUtilities.java":[683, 684, 685, 686, 687, 856, 857, 858, 859, 860, 862, 863]}}
-,"20": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 858, 859, 860, 861, 862, 864, 865]}}
-,"21": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 858, 859, 860, 861, 862, 864, 865]}}
-,"22": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 858, 859, 860, 861, 862, 864, 865]}}
-,"23": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 858, 859, 860, 861, 862, 864, 865]}}
-,"24": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 858, 859, 860, 861, 862, 864, 865]}}
-,"25": {"2":{"org/jfree/data/general/DatasetUtilities.java":[691, 692, 693, 694, 695, 864, 865, 866, 867, 868, 870, 871]}}
-,"26": {"2":{"org/jfree/data/general/DatasetUtilities.java":[691, 692, 693, 694, 695, 864, 865, 866, 867, 868, 870, 871]}}
+,"6": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 900, 901, 902, 903, 904, 906, 907]}}
+,"7": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 900, 901, 902, 903, 904, 906, 907]}}
+,"8": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 900, 901, 902, 903, 904, 906, 907]}}
+,"9": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 900, 901, 902, 903, 904, 906, 907]}}
+,"10": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 900, 901, 902, 903, 904, 906, 907]}}
+,"11": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 900, 901, 902, 903, 904, 906, 907]}}
+,"12": {"2":{"org/jfree/data/general/DatasetUtilities.java":[689, 690, 691, 692, 693, 900, 901, 902, 903, 904, 906, 907]}}
+,"13": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 889, 890, 891, 892, 893, 895, 896]}}
+,"14": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 889, 890, 891, 892, 893, 895, 896]}}
+,"15": {"2":{"org/jfree/data/general/DatasetUtilities.java":[683, 684, 685, 686, 687, 852, 853, 854, 855, 856, 858, 859]}}
+,"16": {"2":{"org/jfree/data/general/DatasetUtilities.java":[683, 684, 685, 686, 687, 852, 853, 854, 855, 856, 858, 859]}}
+,"17": {"2":{"org/jfree/data/general/DatasetUtilities.java":[683, 684, 685, 686, 687, 852, 853, 854, 855, 856, 858, 859]}}
+,"18": {"2":{"org/jfree/data/general/DatasetUtilities.java":[683, 684, 685, 686, 687, 852, 853, 854, 855, 856, 858, 859]}}
+,"19": {"2":{"org/jfree/data/general/DatasetUtilities.java":[683, 684, 685, 686, 687, 852, 853, 854, 855, 856, 858, 859]}}
+,"20": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 854, 855, 856, 857, 858, 860, 861]}}
+,"21": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 854, 855, 856, 857, 858, 860, 861]}}
+,"22": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 854, 855, 856, 857, 858, 860, 861]}}
+,"23": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 854, 855, 856, 857, 858, 860, 861]}}
+,"24": {"2":{"org/jfree/data/general/DatasetUtilities.java":[685, 686, 687, 688, 689, 854, 855, 856, 857, 858, 860, 861]}}
+,"25": {"2":{"org/jfree/data/general/DatasetUtilities.java":[691, 692, 693, 694, 695, 860, 861, 862, 863, 864, 866, 867]}}
+,"26": {"2":{"org/jfree/data/general/DatasetUtilities.java":[691, 692, 693, 694, 695, 860, 861, 862, 863, 864, 866, 867]}}
 }
 ,
 {
 "bug": {"3":{"org/jfree/data/time/TimeSeries.java":[1057, 1058]}}
-,"4": {"3":{"org/jfree/data/time/TimeSeries.java":[1057, 1058]}}
-,"5": {"3":{"org/jfree/data/time/TimeSeries.java":[886, 887]}}
-,"6": {"3":{"org/jfree/data/time/TimeSeries.java":[886, 887]}}
-,"7": {"3":{"org/jfree/data/time/TimeSeries.java":[886, 887]}}
-,"8": {"3":{"org/jfree/data/time/TimeSeries.java":[886, 887]}}
-,"9": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
-,"10": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
-,"11": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
-,"12": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
-,"13": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
-,"14": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
-,"15": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
-,"16": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
-,"17": {"3":{"org/jfree/data/time/TimeSeries.java":[882, 883]}}
-,"18": {"3":{"org/jfree/data/time/TimeSeries.java":[882, 883]}}
-,"19": {"3":{"org/jfree/data/time/TimeSeries.java":[881, 882]}}
-,"20": {"3":{"org/jfree/data/time/TimeSeries.java":[883, 884]}}
-,"21": {"3":{"org/jfree/data/time/TimeSeries.java":[883, 884]}}
-,"22": {"3":{"org/jfree/data/time/TimeSeries.java":[883, 884]}}
-,"23": {"3":{"org/jfree/data/time/TimeSeries.java":[883, 884]}}
-,"24": {"3":{"org/jfree/data/time/TimeSeries.java":[883, 884]}}
-,"25": {"3":{"org/jfree/data/time/TimeSeries.java":[883, 884]}}
-,"26": {"3":{"org/jfree/data/time/TimeSeries.java":[883, 884]}}
+,"4": {"3":{"org/jfree/data/time/TimeSeries.java":[1058, 1059]}}
+,"5": {"3":{"org/jfree/data/time/TimeSeries.java":[887, 888]}}
+,"6": {"3":{"org/jfree/data/time/TimeSeries.java":[887, 888]}}
+,"7": {"3":{"org/jfree/data/time/TimeSeries.java":[887, 888]}}
+,"8": {"3":{"org/jfree/data/time/TimeSeries.java":[887, 888]}}
+,"9": {"3":{"org/jfree/data/time/TimeSeries.java":[885, 886]}}
+,"10": {"3":{"org/jfree/data/time/TimeSeries.java":[885, 886]}}
+,"11": {"3":{"org/jfree/data/time/TimeSeries.java":[885, 886]}}
+,"12": {"3":{"org/jfree/data/time/TimeSeries.java":[885, 886]}}
+,"13": {"3":{"org/jfree/data/time/TimeSeries.java":[885, 886]}}
+,"14": {"3":{"org/jfree/data/time/TimeSeries.java":[885, 886]}}
+,"15": {"3":{"org/jfree/data/time/TimeSeries.java":[885, 886]}}
+,"16": {"3":{"org/jfree/data/time/TimeSeries.java":[885, 886]}}
+,"17": {"3":{"org/jfree/data/time/TimeSeries.java":[883, 884]}}
+,"18": {"3":{"org/jfree/data/time/TimeSeries.java":[883, 884]}}
+,"19": {"3":{"org/jfree/data/time/TimeSeries.java":[882, 883]}}
+,"20": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
+,"21": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
+,"22": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
+,"23": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
+,"24": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
+,"25": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
+,"26": {"3":{"org/jfree/data/time/TimeSeries.java":[884, 885]}}
 }
 ,
 {
 "bug": {"4":{"org/jfree/chart/plot/XYPlot.java":[4492, 4493, 4501]}}
-,"5": {"4":{"org/jfree/chart/plot/XYPlot.java":[4350]}}
-,"6": {"4":{"org/jfree/chart/plot/XYPlot.java":[4034]}}
-,"7": {"4":{"org/jfree/chart/plot/XYPlot.java":[4034]}}
-,"8": {"4":{"org/jfree/chart/plot/XYPlot.java":[4034]}}
-,"9": {"4":{"org/jfree/chart/plot/XYPlot.java":[4034]}}
-,"10": {"4":{"org/jfree/chart/plot/XYPlot.java":[4034]}}
-,"11": {"4":{"org/jfree/chart/plot/XYPlot.java":[4034]}}
-,"12": {"4":{"org/jfree/chart/plot/XYPlot.java":[4034]}}
-,"13": {"4":{"org/jfree/chart/plot/XYPlot.java":[4034]}}
-,"14": {"4":{"org/jfree/chart/plot/XYPlot.java":[4027]}}
-,"15": {"4":{"org/jfree/chart/plot/XYPlot.java":[3916]}}
-,"16": {"4":{"org/jfree/chart/plot/XYPlot.java":[3916]}}
-,"17": {"4":{"org/jfree/chart/plot/XYPlot.java":[3915]}}
-,"18": {"4":{"org/jfree/chart/plot/XYPlot.java":[3915]}}
-,"19": {"4":{"org/jfree/chart/plot/XYPlot.java":[3787]}}
-,"20": {"4":{"org/jfree/chart/plot/XYPlot.java":[3789]}}
-,"21": {"4":{"org/jfree/chart/plot/XYPlot.java":[3789]}}
-,"22": {"4":{"org/jfree/chart/plot/XYPlot.java":[3789]}}
-,"23": {"4":{"org/jfree/chart/plot/XYPlot.java":[3789]}}
-,"24": {"4":{"org/jfree/chart/plot/XYPlot.java":[3789]}}
-,"25": {"4":{"org/jfree/chart/plot/XYPlot.java":[3785]}}
-,"26": {"4":{"org/jfree/chart/plot/XYPlot.java":[3785]}}
+,"5": {"4":{"org/jfree/chart/plot/XYPlot.java":[4341]}}
+,"6": {"4":{"org/jfree/chart/plot/XYPlot.java":[4025]}}
+,"7": {"4":{"org/jfree/chart/plot/XYPlot.java":[4025]}}
+,"8": {"4":{"org/jfree/chart/plot/XYPlot.java":[4025]}}
+,"9": {"4":{"org/jfree/chart/plot/XYPlot.java":[4025]}}
+,"10": {"4":{"org/jfree/chart/plot/XYPlot.java":[4025]}}
+,"11": {"4":{"org/jfree/chart/plot/XYPlot.java":[4025]}}
+,"12": {"4":{"org/jfree/chart/plot/XYPlot.java":[4025]}}
+,"13": {"4":{"org/jfree/chart/plot/XYPlot.java":[4025]}}
+,"14": {"4":{"org/jfree/chart/plot/XYPlot.java":[4018]}}
+,"15": {"4":{"org/jfree/chart/plot/XYPlot.java":[3907]}}
+,"16": {"4":{"org/jfree/chart/plot/XYPlot.java":[3907]}}
+,"17": {"4":{"org/jfree/chart/plot/XYPlot.java":[3906]}}
+,"18": {"4":{"org/jfree/chart/plot/XYPlot.java":[3906]}}
+,"19": {"4":{"org/jfree/chart/plot/XYPlot.java":[3778]}}
+,"20": {"4":{"org/jfree/chart/plot/XYPlot.java":[3780]}}
+,"21": {"4":{"org/jfree/chart/plot/XYPlot.java":[3780]}}
+,"22": {"4":{"org/jfree/chart/plot/XYPlot.java":[3780]}}
+,"23": {"4":{"org/jfree/chart/plot/XYPlot.java":[3780]}}
+,"24": {"4":{"org/jfree/chart/plot/XYPlot.java":[3780]}}
+,"25": {"4":{"org/jfree/chart/plot/XYPlot.java":[3776]}}
+,"26": {"4":{"org/jfree/chart/plot/XYPlot.java":[3776]}}
 }
 ,
 {
 "bug": {"5":{"org/jfree/data/xy/XYSeries.java":[545, 546, 547, 548]}}
-,"6": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"7": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"8": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"9": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"10": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"11": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"12": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"13": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"14": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"15": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"16": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"17": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"18": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"19": {"5":{"org/jfree/data/xy/XYSeries.java":[525, 526, 527]}}
-,"20": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"21": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"22": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"23": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"24": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"25": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
-,"26": {"5":{"org/jfree/data/xy/XYSeries.java":[527, 528, 529]}}
+,"6": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"7": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"8": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"9": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"10": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"11": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"12": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"13": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"14": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"15": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"16": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"17": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"18": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"19": {"5":{"org/jfree/data/xy/XYSeries.java":[521, 520, 521, 522]}}
+,"20": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"21": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"22": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"23": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"24": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"25": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
+,"26": {"5":{"org/jfree/data/xy/XYSeries.java":[523, 522, 523, 524]}}
 }
 ,
 {
@@ -160,223 +160,223 @@
 ,
 {
 "bug": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"8": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"9": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"10": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"11": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"12": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"13": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"14": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"15": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"16": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"17": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"18": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"19": {"7":{"org/jfree/data/time/TimePeriodValues.java":[300, 302]}}
-,"20": {"7":{"org/jfree/data/time/TimePeriodValues.java":[302, 304]}}
-,"21": {"7":{"org/jfree/data/time/TimePeriodValues.java":[302, 304]}}
-,"22": {"7":{"org/jfree/data/time/TimePeriodValues.java":[302, 304]}}
-,"23": {"7":{"org/jfree/data/time/TimePeriodValues.java":[302, 304]}}
-,"24": {"7":{"org/jfree/data/time/TimePeriodValues.java":[302, 304]}}
-,"25": {"7":{"org/jfree/data/time/TimePeriodValues.java":[302, 304]}}
-,"26": {"7":{"org/jfree/data/time/TimePeriodValues.java":[302, 304]}}
+,"8": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"9": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"10": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"11": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"12": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"13": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"14": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"15": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"16": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"17": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"18": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"19": {"7":{"org/jfree/data/time/TimePeriodValues.java":[299, 301]}}
+,"20": {"7":{"org/jfree/data/time/TimePeriodValues.java":[301, 303]}}
+,"21": {"7":{"org/jfree/data/time/TimePeriodValues.java":[301, 303]}}
+,"22": {"7":{"org/jfree/data/time/TimePeriodValues.java":[301, 303]}}
+,"23": {"7":{"org/jfree/data/time/TimePeriodValues.java":[301, 303]}}
+,"24": {"7":{"org/jfree/data/time/TimePeriodValues.java":[301, 303]}}
+,"25": {"7":{"org/jfree/data/time/TimePeriodValues.java":[301, 303]}}
+,"26": {"7":{"org/jfree/data/time/TimePeriodValues.java":[301, 303]}}
 }
 ,
 {
 "bug": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"9": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"10": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"11": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"12": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"13": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"14": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"15": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"16": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"17": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"18": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"19": {"8":{"org/jfree/data/time/Week.java":[175]}}
-,"20": {"8":{"org/jfree/data/time/Week.java":[177]}}
-,"21": {"8":{"org/jfree/data/time/Week.java":[177]}}
-,"22": {"8":{"org/jfree/data/time/Week.java":[177]}}
-,"23": {"8":{"org/jfree/data/time/Week.java":[177]}}
-,"24": {"8":{"org/jfree/data/time/Week.java":[177]}}
-,"25": {"8":{"org/jfree/data/time/Week.java":[172]}}
-,"26": {"8":{"org/jfree/data/time/Week.java":[172]}}
+,"9": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"10": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"11": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"12": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"13": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"14": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"15": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"16": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"17": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"18": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"19": {"8":{"org/jfree/data/time/Week.java":[174]}}
+,"20": {"8":{"org/jfree/data/time/Week.java":[176]}}
+,"21": {"8":{"org/jfree/data/time/Week.java":[176]}}
+,"22": {"8":{"org/jfree/data/time/Week.java":[176]}}
+,"23": {"8":{"org/jfree/data/time/Week.java":[176]}}
+,"24": {"8":{"org/jfree/data/time/Week.java":[176]}}
+,"25": {"8":{"org/jfree/data/time/Week.java":[171]}}
+,"26": {"8":{"org/jfree/data/time/Week.java":[171]}}
 }
 ,
 {
 "bug": {"9":{"org/jfree/data/time/TimeSeries.java":[944]}}
-,"10": {"9":{"org/jfree/data/time/TimeSeries.java":[944]}}
-,"11": {"9":{"org/jfree/data/time/TimeSeries.java":[944]}}
-,"12": {"9":{"org/jfree/data/time/TimeSeries.java":[944]}}
-,"13": {"9":{"org/jfree/data/time/TimeSeries.java":[944]}}
-,"14": {"9":{"org/jfree/data/time/TimeSeries.java":[944]}}
-,"15": {"9":{"org/jfree/data/time/TimeSeries.java":[944]}}
-,"16": {"9":{"org/jfree/data/time/TimeSeries.java":[944]}}
-,"17": {"9":{"org/jfree/data/time/TimeSeries.java":[942]}}
-,"18": {"9":{"org/jfree/data/time/TimeSeries.java":[942]}}
-,"19": {"9":{"org/jfree/data/time/TimeSeries.java":[941]}}
-,"20": {"9":{"org/jfree/data/time/TimeSeries.java":[943]}}
-,"21": {"9":{"org/jfree/data/time/TimeSeries.java":[943]}}
-,"22": {"9":{"org/jfree/data/time/TimeSeries.java":[943]}}
-,"23": {"9":{"org/jfree/data/time/TimeSeries.java":[943]}}
-,"24": {"9":{"org/jfree/data/time/TimeSeries.java":[943]}}
-,"25": {"9":{"org/jfree/data/time/TimeSeries.java":[943]}}
-,"26": {"9":{"org/jfree/data/time/TimeSeries.java":[943]}}
+,"10": {"9":{"org/jfree/data/time/TimeSeries.java":[940]}}
+,"11": {"9":{"org/jfree/data/time/TimeSeries.java":[940]}}
+,"12": {"9":{"org/jfree/data/time/TimeSeries.java":[940]}}
+,"13": {"9":{"org/jfree/data/time/TimeSeries.java":[940]}}
+,"14": {"9":{"org/jfree/data/time/TimeSeries.java":[940]}}
+,"15": {"9":{"org/jfree/data/time/TimeSeries.java":[940]}}
+,"16": {"9":{"org/jfree/data/time/TimeSeries.java":[940]}}
+,"17": {"9":{"org/jfree/data/time/TimeSeries.java":[938]}}
+,"18": {"9":{"org/jfree/data/time/TimeSeries.java":[938]}}
+,"19": {"9":{"org/jfree/data/time/TimeSeries.java":[937]}}
+,"20": {"9":{"org/jfree/data/time/TimeSeries.java":[939]}}
+,"21": {"9":{"org/jfree/data/time/TimeSeries.java":[939]}}
+,"22": {"9":{"org/jfree/data/time/TimeSeries.java":[939]}}
+,"23": {"9":{"org/jfree/data/time/TimeSeries.java":[939]}}
+,"24": {"9":{"org/jfree/data/time/TimeSeries.java":[939]}}
+,"25": {"9":{"org/jfree/data/time/TimeSeries.java":[939]}}
+,"26": {"9":{"org/jfree/data/time/TimeSeries.java":[939]}}
 }
 ,
 {
 "bug": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[65]}}
-,"11": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[65]}}
-,"12": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[65]}}
-,"13": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[65]}}
-,"14": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[65]}}
-,"15": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[65]}}
-,"16": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[65]}}
-,"17": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[65]}}
-,"18": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[65]}}
-,"19": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[65]}}
-,"20": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[67]}}
-,"21": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[67]}}
-,"22": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[67]}}
-,"23": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[67]}}
-,"24": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[67]}}
-,"25": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[67]}}
-,"26": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[67]}}
+,"11": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[56]}}
+,"12": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[56]}}
+,"13": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[56]}}
+,"14": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[56]}}
+,"15": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[56]}}
+,"16": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[56]}}
+,"17": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[56]}}
+,"18": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[56]}}
+,"19": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[56]}}
+,"20": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[58]}}
+,"21": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[58]}}
+,"22": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[58]}}
+,"23": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[58]}}
+,"24": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[58]}}
+,"25": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[58]}}
+,"26": {"10":{"org/jfree/chart/imagemap/StandardToolTipTagFragmentGenerator.java":[58]}}
 }
 ,
 {
 "bug": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[275]}}
-,"12": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[276]}}
-,"13": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[276]}}
-,"14": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[276]}}
-,"15": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[276]}}
-,"16": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[276]}}
-,"17": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[276]}}
-,"18": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[276]}}
-,"19": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[276]}}
-,"20": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[278]}}
-,"21": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[278]}}
-,"22": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[278]}}
-,"23": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[278]}}
-,"24": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[278]}}
-,"25": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[278]}}
-,"26": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[278]}}
+,"12": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[275]}}
+,"13": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[275]}}
+,"14": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[275]}}
+,"15": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[275]}}
+,"16": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[275]}}
+,"17": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[275]}}
+,"18": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[275]}}
+,"19": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[275]}}
+,"20": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[277]}}
+,"21": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[277]}}
+,"22": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[277]}}
+,"23": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[277]}}
+,"24": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[277]}}
+,"25": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[277]}}
+,"26": {"11":{"org/jfree/chart/util/ShapeUtilities.java":[277]}}
 }
 ,
 {
 "bug": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
-,"13": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
-,"14": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
-,"15": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
-,"16": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
-,"17": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
-,"18": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
-,"19": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
-,"20": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[147]}}
-,"21": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[147]}}
-,"22": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[147]}}
-,"23": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[147]}}
-,"24": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[147]}}
-,"25": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[147]}}
-,"26": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[147]}}
+,"13": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[143]}}
+,"14": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[143]}}
+,"15": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[143]}}
+,"16": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[143]}}
+,"17": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[143]}}
+,"18": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[143]}}
+,"19": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[143]}}
+,"20": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
+,"21": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
+,"22": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
+,"23": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
+,"24": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
+,"25": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
+,"26": {"12":{"org/jfree/chart/plot/MultiplePiePlot.java":[145]}}
 }
 ,
 {
 "bug": {"13":{"org/jfree/chart/block/BorderArrangement.java":[455]}}
-,"14": {"13":{"org/jfree/chart/block/BorderArrangement.java":[455]}}
-,"15": {"13":{"org/jfree/chart/block/BorderArrangement.java":[455]}}
-,"16": {"13":{"org/jfree/chart/block/BorderArrangement.java":[455]}}
-,"17": {"13":{"org/jfree/chart/block/BorderArrangement.java":[455]}}
-,"18": {"13":{"org/jfree/chart/block/BorderArrangement.java":[455]}}
-,"19": {"13":{"org/jfree/chart/block/BorderArrangement.java":[455]}}
-,"20": {"13":{"org/jfree/chart/block/BorderArrangement.java":[455]}}
-,"21": {"13":{"org/jfree/chart/block/BorderArrangement.java":[457]}}
-,"22": {"13":{"org/jfree/chart/block/BorderArrangement.java":[457]}}
-,"23": {"13":{"org/jfree/chart/block/BorderArrangement.java":[457]}}
-,"24": {"13":{"org/jfree/chart/block/BorderArrangement.java":[457]}}
-,"25": {"13":{"org/jfree/chart/block/BorderArrangement.java":[457]}}
-,"26": {"13":{"org/jfree/chart/block/BorderArrangement.java":[457]}}
+,"14": {"13":{"org/jfree/chart/block/BorderArrangement.java":[492]}}
+,"15": {"13":{"org/jfree/chart/block/BorderArrangement.java":[492]}}
+,"16": {"13":{"org/jfree/chart/block/BorderArrangement.java":[492]}}
+,"17": {"13":{"org/jfree/chart/block/BorderArrangement.java":[492]}}
+,"18": {"13":{"org/jfree/chart/block/BorderArrangement.java":[492]}}
+,"19": {"13":{"org/jfree/chart/block/BorderArrangement.java":[492]}}
+,"20": {"13":{"org/jfree/chart/block/BorderArrangement.java":[492]}}
+,"21": {"13":{"org/jfree/chart/block/BorderArrangement.java":[494]}}
+,"22": {"13":{"org/jfree/chart/block/BorderArrangement.java":[494]}}
+,"23": {"13":{"org/jfree/chart/block/BorderArrangement.java":[494]}}
+,"24": {"13":{"org/jfree/chart/block/BorderArrangement.java":[494]}}
+,"25": {"13":{"org/jfree/chart/block/BorderArrangement.java":[494]}}
+,"26": {"13":{"org/jfree/chart/block/BorderArrangement.java":[494]}}
 }
 ,
 {
 "bug": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2166, 2448], "org/jfree/chart/plot/XYPlot.java":[2293, 2529]}}
-,"15": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2339], "org/jfree/chart/plot/XYPlot.java":[2448]}}
-,"16": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2339], "org/jfree/chart/plot/XYPlot.java":[2448]}}
-,"17": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2339], "org/jfree/chart/plot/XYPlot.java":[2447]}}
-,"18": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2339], "org/jfree/chart/plot/XYPlot.java":[2447]}}
-,"19": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2264], "org/jfree/chart/plot/XYPlot.java":[2381]}}
-,"20": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2266], "org/jfree/chart/plot/XYPlot.java":[2383]}}
-,"21": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2266], "org/jfree/chart/plot/XYPlot.java":[2383]}}
-,"22": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2266], "org/jfree/chart/plot/XYPlot.java":[2383]}}
-,"23": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2266], "org/jfree/chart/plot/XYPlot.java":[2383]}}
-,"24": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2266], "org/jfree/chart/plot/XYPlot.java":[2383]}}
-,"25": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2265], "org/jfree/chart/plot/XYPlot.java":[2381]}}
-,"26": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2243], "org/jfree/chart/plot/XYPlot.java":[2381]}}
+,"15": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2112, 2338], "org/jfree/chart/plot/XYPlot.java":[2250, 2447]}}
+,"16": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2112, 2338], "org/jfree/chart/plot/XYPlot.java":[2250, 2447]}}
+,"17": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2112, 2338], "org/jfree/chart/plot/XYPlot.java":[2249, 2446]}}
+,"18": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2112, 2338], "org/jfree/chart/plot/XYPlot.java":[2249, 2446]}}
+,"19": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2098, 2263], "org/jfree/chart/plot/XYPlot.java":[2244, 2380]}}
+,"20": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2100, 2265], "org/jfree/chart/plot/XYPlot.java":[2246, 2382]}}
+,"21": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2100, 2265], "org/jfree/chart/plot/XYPlot.java":[2246, 2382]}}
+,"22": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2100, 2265], "org/jfree/chart/plot/XYPlot.java":[2246, 2382]}}
+,"23": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2100, 2265], "org/jfree/chart/plot/XYPlot.java":[2246, 2382]}}
+,"24": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2100, 2265], "org/jfree/chart/plot/XYPlot.java":[2246, 2382]}}
+,"25": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2099, 2264], "org/jfree/chart/plot/XYPlot.java":[2244, 2380]}}
+,"26": {"14":{"org/jfree/chart/plot/CategoryPlot.java":[2077, 2242], "org/jfree/chart/plot/XYPlot.java":[2244, 2380]}}
 }
 ,
 {
 "bug": {"15":{"org/jfree/chart/plot/PiePlot.java":[1378, 1379, 2051, 2053]}}
-,"16": {"15":{"org/jfree/chart/plot/PiePlot.java":[1378, 1379, 2051, 2053]}}
-,"17": {"15":{"org/jfree/chart/plot/PiePlot.java":[1378, 1379, 2051, 2053]}}
-,"18": {"15":{"org/jfree/chart/plot/PiePlot.java":[1378, 1379, 2051, 2053]}}
-,"19": {"15":{"org/jfree/chart/plot/PiePlot.java":[1356, 1357, 2029, 2031]}}
-,"20": {"15":{"org/jfree/chart/plot/PiePlot.java":[1358, 1359, 2031, 2033]}}
-,"21": {"15":{"org/jfree/chart/plot/PiePlot.java":[1358, 1359, 2031, 2033]}}
-,"22": {"15":{"org/jfree/chart/plot/PiePlot.java":[1358, 1359, 2031, 2033]}}
-,"23": {"15":{"org/jfree/chart/plot/PiePlot.java":[1358, 1359, 2031, 2033]}}
-,"24": {"15":{"org/jfree/chart/plot/PiePlot.java":[1358, 1359, 2031, 2033]}}
-,"25": {"15":{"org/jfree/chart/plot/PiePlot.java":[1358, 1359, 2031, 2033]}}
-,"26": {"15":{"org/jfree/chart/plot/PiePlot.java":[1324, 1325, 1909, 1911]}}
+,"16": {"15":{"org/jfree/chart/plot/PiePlot.java":[1376, 1377, 2049, 2051]}}
+,"17": {"15":{"org/jfree/chart/plot/PiePlot.java":[1376, 1377, 2049, 2051]}}
+,"18": {"15":{"org/jfree/chart/plot/PiePlot.java":[1376, 1377, 2049, 2051]}}
+,"19": {"15":{"org/jfree/chart/plot/PiePlot.java":[1354, 1355, 2027, 2029]}}
+,"20": {"15":{"org/jfree/chart/plot/PiePlot.java":[1356, 1357, 2029, 2031]}}
+,"21": {"15":{"org/jfree/chart/plot/PiePlot.java":[1356, 1357, 2029, 2031]}}
+,"22": {"15":{"org/jfree/chart/plot/PiePlot.java":[1356, 1357, 2029, 2031]}}
+,"23": {"15":{"org/jfree/chart/plot/PiePlot.java":[1356, 1357, 2029, 2031]}}
+,"24": {"15":{"org/jfree/chart/plot/PiePlot.java":[1356, 1357, 2029, 2031]}}
+,"25": {"15":{"org/jfree/chart/plot/PiePlot.java":[1356, 1357, 2029, 2031]}}
+,"26": {"15":{"org/jfree/chart/plot/PiePlot.java":[1322, 1323, 1907, 1909]}}
 }
 ,
 {
 "bug": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[207, 208, 338]}}
-,"17": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[207, 208, 338]}}
-,"18": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[207, 208, 338]}}
-,"19": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[207, 208, 338]}}
-,"20": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[209, 210, 340]}}
-,"21": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[209, 210, 340]}}
-,"22": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[209, 210, 340]}}
-,"23": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[209, 210, 340]}}
-,"24": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[209, 210, 340]}}
-,"25": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[209, 210, 340]}}
-,"26": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[209, 210, 340]}}
+,"17": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[199, 200, 330]}}
+,"18": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[199, 200, 330]}}
+,"19": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[199, 200, 330]}}
+,"20": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[201, 202, 332]}}
+,"21": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[201, 202, 332]}}
+,"22": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[201, 202, 332]}}
+,"23": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[201, 202, 332]}}
+,"24": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[201, 202, 332]}}
+,"25": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[201, 202, 332]}}
+,"26": {"16":{"org/jfree/data/category/DefaultIntervalCategoryDataset.java":[201, 202, 332]}}
 }
 ,
 {
 "bug": {"17":{"org/jfree/data/time/TimeSeries.java":[857]}}
-,"18": {"17":{"org/jfree/data/time/TimeSeries.java":[857]}}
-,"19": {"17":{"org/jfree/data/time/TimeSeries.java":[856]}}
-,"20": {"17":{"org/jfree/data/time/TimeSeries.java":[858]}}
-,"21": {"17":{"org/jfree/data/time/TimeSeries.java":[858]}}
-,"22": {"17":{"org/jfree/data/time/TimeSeries.java":[858]}}
-,"23": {"17":{"org/jfree/data/time/TimeSeries.java":[858]}}
-,"24": {"17":{"org/jfree/data/time/TimeSeries.java":[858]}}
-,"25": {"17":{"org/jfree/data/time/TimeSeries.java":[858]}}
-,"26": {"17":{"org/jfree/data/time/TimeSeries.java":[858]}}
+,"18": {"17":{"org/jfree/data/time/TimeSeries.java":[856]}}
+,"19": {"17":{"org/jfree/data/time/TimeSeries.java":[855]}}
+,"20": {"17":{"org/jfree/data/time/TimeSeries.java":[857]}}
+,"21": {"17":{"org/jfree/data/time/TimeSeries.java":[857]}}
+,"22": {"17":{"org/jfree/data/time/TimeSeries.java":[857]}}
+,"23": {"17":{"org/jfree/data/time/TimeSeries.java":[857]}}
+,"24": {"17":{"org/jfree/data/time/TimeSeries.java":[857]}}
+,"25": {"17":{"org/jfree/data/time/TimeSeries.java":[857]}}
+,"26": {"17":{"org/jfree/data/time/TimeSeries.java":[857]}}
 }
 ,
 {
 "bug": {"18":{"org/jfree/data/DefaultKeyedValues.java":[318, 320, 335], "org/jfree/data/DefaultKeyedValues2D.java":[455, 456, 458, 459]}}
-,"19": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[455, 456, 458, 459]}}
-,"20": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[457, 458, 460, 461]}}
-,"21": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[457, 458, 460, 461]}}
-,"22": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[457, 458, 460, 461]}}
-,"23": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[457, 458, 460, 461]}}
-,"24": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[457, 458, 460, 461]}}
-,"25": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[457, 458, 460, 461]}}
-,"26": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[457, 458, 460, 461]}}
+,"19": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[449, 450, 452, 453]}}
+,"20": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[451, 452, 454, 455]}}
+,"21": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[451, 452, 454, 455]}}
+,"22": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[451, 452, 454, 455]}}
+,"23": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[451, 452, 454, 455]}}
+,"24": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[451, 452, 454, 455]}}
+,"25": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[451, 452, 454, 455]}}
+,"26": {"18":{"org/jfree/data/DefaultKeyedValues2D.java":[451, 452, 454, 455]}}
 }
 ,
 {
 "bug": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[698, 973]}}
-,"20": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[700, 975]}}
-,"21": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[700, 975]}}
-,"22": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[700, 975]}}
-,"23": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[700, 975]}}
-,"24": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[700, 975]}}
-,"25": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[699, 974]}}
-,"26": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[701]}}
+,"20": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[696, 969]}}
+,"21": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[696, 969]}}
+,"22": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[696, 969]}}
+,"23": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[696, 969]}}
+,"24": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[696, 969]}}
+,"25": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[695, 968]}}
+,"26": {"19":{"org/jfree/chart/plot/CategoryPlot.java":[697]}}
 }
 ,
 {
@@ -391,37 +391,35 @@
 ,
 {
 "bug": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[157, 158, 188, 189, 742]}}
-,"22": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[157, 158, 188, 189, 742]}}
-,"23": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[136, 137, 159, 160, 715]}}
-,"24": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[136, 137, 159, 160, 701]}}
-,"25": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[136, 137, 159, 160, 701]}}
-,"26": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[136, 137, 159, 160, 701]}}
+,"22": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[156, 157, 188, 189, 687]}}
+,"23": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[135, 136, 145, 146, 646]}}
+,"24": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[135, 136, 145, 146, 646]}}
+,"25": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[135, 136, 145, 146, 646]}}
+,"26": {"21":{"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java":[135, 136, 145, 146, 646]}}
 }
 ,
 {
 "bug": {"22":{"org/jfree/data/KeyedObjects2D.java":[231, 233, 316, 317, 318, 319, 320, 345, 378, 379]}}
-,"23": {"22":{"org/jfree/data/KeyedObjects2D.java":[228, 230, 313, 314, 315, 316, 317, 342, 375, 376]}}
-,"24": {"22":{"org/jfree/data/KeyedObjects2D.java":[214, 216, 299, 300, 301, 302, 303, 335, 369, 370]}}
-,"25": {"22":{"org/jfree/data/KeyedObjects2D.java":[214, 216, 299, 300, 301, 302, 303, 335, 369, 370]}}
-,"26": {"22":{"org/jfree/data/KeyedObjects2D.java":[214, 216, 299, 300, 301, 302, 303, 335, 369, 370]}}
+,"23": {"22":{"org/jfree/data/KeyedObjects2D.java":[208, 210, 284, 285, 286, 287, 268, 287, 308, 309]}}
+,"24": {"22":{"org/jfree/data/KeyedObjects2D.java":[194, 196, 270, 271, 272, 273, 254, 273, 294, 295]}}
+,"25": {"22":{"org/jfree/data/KeyedObjects2D.java":[194, 196, 270, 271, 272, 273, 254, 273, 294, 295]}}
+,"26": {"22":{"org/jfree/data/KeyedObjects2D.java":[194, 196, 270, 271, 272, 273, 254, 273, 294, 295]}}
 }
 ,
 {
 "bug": {"23":{"org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java":[]}}
-,"24": {"23":{"org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java":[]}}
-,"25": {"23":{"org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java":[]}}
-,"26": {"23":{"org/jfree/chart/renderer/category/MinMaxCategoryRenderer.java":[]}}
+,"23": "failed"
 }
 ,
 {
 "bug": {"24":{"org/jfree/chart/renderer/GrayPaintScale.java":[126]}}
-,"25": {"24":{"org/jfree/chart/renderer/GrayPaintScale.java":[126]}}
-,"26": {"24":{"org/jfree/chart/renderer/GrayPaintScale.java":[126]}}
+,"25": {"24":{"org/jfree/chart/renderer/GrayPaintScale.java":[117]}}
+,"26": {"24":{"org/jfree/chart/renderer/GrayPaintScale.java":[117]}}
 }
 ,
 {
 "bug": {"25":{"org/jfree/chart/renderer/category/StatisticalBarRenderer.java":[259, 260, 315, 316, 344, 345, 403, 404, 459, 460, 487, 488]}}
-,"26": {"25":{"org/jfree/chart/renderer/category/StatisticalBarRenderer.java":[215, 216, 271, 272, 293, 294, 352, 353, 408, 409, 430, 431]}}
+,"26": {"25":{"org/jfree/chart/renderer/category/StatisticalBarRenderer.java":[214, 215, 270, 271, 292, 293, 351, 352, 407, 408, 429, 430]}}
 }
 ,
 {

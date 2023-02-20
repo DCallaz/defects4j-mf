@@ -6,65 +6,65 @@
 ,"4": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467, 468, 471]}}
 ,"5": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[464, 467]}}
 ,"6": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[464, 467]}}
-,"7": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"8": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"9": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"10": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"11": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[465]}}
-,"12": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[465]}}
-,"13": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[465]}}
-,"14": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[465]}}
-,"15": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[465]}}
-,"16": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[465]}}
-,"17": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[465]}}
-,"18": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[465]}}
-,"19": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[465]}}
-,"20": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[465]}}
-,"21": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"22": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"23": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"24": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"25": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"26": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"27": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"28": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"29": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"30": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"31": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[473]}}
-,"32": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"33": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"34": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"35": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"36": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"37": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"38": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"39": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"40": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"41": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"42": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"43": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"44": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"45": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"46": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"47": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"48": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"49": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"50": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"51": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"52": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"53": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"54": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"55": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"56": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"57": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"58": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"59": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"60": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"61": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"62": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"63": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"64": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
-,"65": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[469]}}
+,"7": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[464]}}
+,"8": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[464]}}
+,"9": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[464]}}
+,"10": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[464]}}
+,"11": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[463]}}
+,"12": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[463]}}
+,"13": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[463]}}
+,"14": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[463]}}
+,"15": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[463]}}
+,"16": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[463]}}
+,"17": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[463]}}
+,"18": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[463]}}
+,"19": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[463]}}
+,"20": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[463]}}
+,"21": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"22": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"23": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"24": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"25": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"26": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"27": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"28": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"29": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"30": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"31": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[471]}}
+,"32": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"33": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"34": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"35": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"36": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"37": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"38": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"39": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"40": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"41": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"42": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"43": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"44": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"45": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"46": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"47": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"48": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"49": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"50": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"51": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"52": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"53": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"54": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"55": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"56": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"57": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"58": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"59": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"60": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"61": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"62": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"63": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"64": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
+,"65": {"1":{"org/apache/commons/lang3/math/NumberUtils.java":[467]}}
 }
 ,
 {
@@ -76,197 +76,197 @@
 ,
 {
 "bug": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[593, 597, 601, 605]}}
-,"4": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[593, 597, 601, 605]}}
-,"5": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[609, 613, 617, 621]}}
-,"6": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[609, 613, 617, 621]}}
-,"7": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[606, 610, 614, 618]}}
-,"8": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[606, 610, 614, 618]}}
-,"9": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[606, 610, 614, 618]}}
-,"10": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[606, 610, 614, 618]}}
-,"11": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[598, 602, 606, 610]}}
-,"12": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[598, 602, 606, 610]}}
-,"13": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[598, 602, 606, 610]}}
-,"14": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[598, 602, 606, 610]}}
-,"15": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[598, 602, 606, 610]}}
-,"16": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[598, 602, 606, 610]}}
-,"17": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[598, 602, 606, 610]}}
-,"18": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[598, 602, 606, 610]}}
-,"19": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[598, 602, 606, 610]}}
-,"20": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[598, 602, 606, 610]}}
-,"21": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[606, 610, 614, 618]}}
-,"22": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[606, 610, 614, 618]}}
-,"23": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[606, 610, 614, 618]}}
-,"24": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[606, 610, 614, 618]}}
-,"25": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[606, 610, 614, 618]}}
-,"26": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[606, 610, 614, 618]}}
-,"27": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[603, 607, 611, 615]}}
-,"28": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[603, 607, 611, 615]}}
-,"29": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[603, 607, 611, 615]}}
-,"30": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[603, 607, 611, 615]}}
-,"31": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[603, 607, 611, 615]}}
-,"32": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"33": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"34": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"35": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"36": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"37": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"38": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"39": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"40": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"41": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"42": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"43": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"44": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"45": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"46": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"47": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"48": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"49": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"50": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"51": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"52": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"53": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"54": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"55": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"56": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"57": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"58": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"59": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"60": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"61": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"62": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"63": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"64": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
-,"65": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[599, 603, 607, 611]}}
+,"4": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[591, 595, 599, 603]}}
+,"5": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[607, 611, 604]}}
+,"6": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[607, 611, 604]}}
+,"7": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[604, 608, 601]}}
+,"8": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[604, 608, 601]}}
+,"9": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[604, 608, 601]}}
+,"10": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[604, 608, 601]}}
+,"11": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[596, 600, 593]}}
+,"12": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[596, 600, 593]}}
+,"13": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[596, 600, 593]}}
+,"14": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[596, 600, 593]}}
+,"15": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[596, 600, 593]}}
+,"16": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[596, 600, 593]}}
+,"17": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[596, 600, 593]}}
+,"18": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[596, 600, 593]}}
+,"19": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[596, 600, 593]}}
+,"20": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[596, 600, 593]}}
+,"21": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[604, 608, 601]}}
+,"22": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[604, 608, 601]}}
+,"23": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[604, 608, 601]}}
+,"24": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[604, 608, 601]}}
+,"25": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[604, 608, 601]}}
+,"26": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[604, 608, 601]}}
+,"27": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[601, 605, 598]}}
+,"28": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[601, 605, 598]}}
+,"29": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[601, 605, 598]}}
+,"30": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[601, 605, 598]}}
+,"31": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[601, 605, 598]}}
+,"32": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"33": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"34": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"35": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"36": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"37": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"38": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"39": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"40": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"41": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"42": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"43": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"44": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"45": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"46": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"47": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"48": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"49": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"50": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"51": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"52": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"53": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"54": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"55": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"56": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"57": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"58": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"59": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"60": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"61": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"62": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"63": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"64": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
+,"65": {"3":{"org/apache/commons/lang3/math/NumberUtils.java":[597, 601, 594]}}
 }
 ,
 {
 "bug": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 46, 51, 77]}}
-,"5": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"6": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"7": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"8": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"9": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"10": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"11": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"12": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"13": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"14": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"15": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"16": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"17": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"18": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"19": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"20": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[27, 42, 73]}}
-,"21": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[28, 43]}}
-,"22": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[28, 44]}}
-,"23": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[28, 44]}}
-,"24": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[28, 44]}}
-,"25": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[28, 44]}}
-,"26": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[28, 44]}}
-,"27": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[28, 44]}}
-,"28": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"29": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"30": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"31": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"32": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"33": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"34": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"35": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"36": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"37": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"38": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"39": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"40": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"41": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"42": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"43": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"44": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"45": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"46": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"47": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"48": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"49": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"50": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"51": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"52": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"53": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"54": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"55": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"56": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"57": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"58": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"59": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"60": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"61": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"62": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"63": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"64": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
-,"65": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[44]}}
+,"5": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"6": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"7": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"8": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"9": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"10": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"11": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"12": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"13": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"14": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"15": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"16": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"17": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"18": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"19": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"20": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[31, 41, 46]}}
+,"21": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"22": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[33, 43]}}
+,"23": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[33, 43]}}
+,"24": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[33, 43]}}
+,"25": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[33, 43]}}
+,"26": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[33, 43]}}
+,"27": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[33, 43]}}
+,"28": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"29": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"30": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"31": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"32": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"33": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"34": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"35": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"36": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"37": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"38": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"39": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"40": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"41": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"42": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"43": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"44": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"45": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"46": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"47": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"48": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"49": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"50": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"51": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"52": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"53": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"54": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"55": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"56": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"57": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"58": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"59": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"60": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"61": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"62": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"63": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"64": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
+,"65": {"4":{"org/apache/commons/lang3/text/translate/LookupTranslator.java":[32, 42]}}
 }
 ,
 {
 "bug": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"6": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"7": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"8": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"9": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"10": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"11": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"12": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"13": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"14": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"15": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"16": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"17": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"18": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"19": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"20": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 128]}}
-,"21": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[106, 137]}}
-,"22": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"23": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"24": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"25": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"26": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"27": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"28": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"29": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"30": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"31": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"32": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"33": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"34": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"35": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"36": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"37": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"38": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"39": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"40": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"41": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"42": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"43": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"44": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"45": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"46": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"47": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"48": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"49": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"50": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"51": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"52": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"53": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"54": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"55": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"56": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"57": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"58": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"59": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"60": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"61": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"62": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"63": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"64": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
-,"65": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 135]}}
+,"6": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"7": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"8": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"9": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"10": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"11": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"12": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"13": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"14": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"15": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"16": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"17": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"18": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"19": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"20": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[97, 124]}}
+,"21": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[106, 133]}}
+,"22": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"23": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"24": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"25": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"26": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"27": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"28": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"29": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"30": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"31": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"32": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"33": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"34": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"35": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"36": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"37": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"38": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"39": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"40": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"41": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"42": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"43": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"44": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"45": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"46": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"47": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"48": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"49": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"50": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"51": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"52": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"53": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"54": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"55": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"56": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"57": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"58": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"59": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"60": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"61": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"62": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"63": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"64": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
+,"65": {"5":{"org/apache/commons/lang3/LocaleUtils.java":[104, 131]}}
 }
 ,
 {
@@ -334,125 +334,125 @@
 ,
 {
 "bug": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[452, 453, 454, 721, 722, 723, 724, 725]}}
-,"8": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[452, 453, 454, 721, 722, 723, 724, 725]}}
-,"9": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[452, 453, 454, 721, 722, 723, 724, 725]}}
-,"10": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[452, 453, 454, 721, 722, 723, 724, 725]}}
-,"11": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 452, 453, 713, 714, 715, 716, 717]}}
-,"12": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 452, 453, 713, 714, 715, 716, 717]}}
-,"13": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 452, 453, 713, 714, 715, 716, 717]}}
-,"14": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 452, 453, 713, 714, 715, 716, 717]}}
-,"15": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 452, 453, 713, 714, 715, 716, 717]}}
-,"16": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 452, 453, 712, 713, 714, 715, 716]}}
-,"17": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 452, 453, 712, 713, 714, 715, 716]}}
-,"18": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 452, 453, 712, 713, 714, 715, 716]}}
-,"19": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 452, 453, 712, 713, 714, 715, 716]}}
-,"20": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 452, 453, 712, 713, 714, 715, 716]}}
-,"21": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 720, 721, 722, 723, 724]}}
-,"22": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 720, 721, 722, 723, 724]}}
-,"23": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 720, 721, 722, 723, 724]}}
-,"24": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 720, 721, 722, 723, 724]}}
-,"25": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 720, 721, 722, 723, 724]}}
-,"26": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 720, 721, 722, 723, 724]}}
-,"27": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 717, 718, 719, 720, 721]}}
-,"28": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 717, 718, 719, 720, 721]}}
-,"29": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 717, 718, 719, 720, 721]}}
-,"30": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 717, 718, 719, 720, 721]}}
-,"31": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 460, 461, 717, 718, 719, 720, 721]}}
-,"32": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"33": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"34": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"35": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"36": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"37": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"38": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"39": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"40": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"41": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"42": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"43": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"44": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"45": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"46": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"47": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"48": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"49": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"50": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"51": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"52": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"53": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"54": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"55": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"56": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"57": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"58": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"59": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"60": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"61": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"62": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"63": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"64": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
-,"65": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 456, 457, 713, 714, 715, 716, 717]}}
+,"8": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[452, 457, 458, 725, 726, 727, 728, 725]}}
+,"9": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[452, 457, 458, 725, 726, 727, 728, 725]}}
+,"10": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[452, 457, 458, 725, 726, 727, 728, 725]}}
+,"11": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 456, 457, 717, 718, 719, 720, 717]}}
+,"12": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 456, 457, 717, 718, 719, 720, 717]}}
+,"13": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 456, 457, 717, 718, 719, 720, 717]}}
+,"14": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 456, 457, 717, 718, 719, 720, 717]}}
+,"15": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 456, 457, 717, 718, 719, 720, 717]}}
+,"16": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 456, 457, 716, 717, 718, 719, 716]}}
+,"17": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 456, 457, 716, 717, 718, 719, 716]}}
+,"18": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 456, 457, 716, 717, 718, 719, 716]}}
+,"19": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 456, 457, 716, 717, 718, 719, 716]}}
+,"20": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[451, 456, 457, 716, 717, 718, 719, 716]}}
+,"21": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 724, 725, 726, 727, 724]}}
+,"22": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 724, 725, 726, 727, 724]}}
+,"23": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 724, 725, 726, 727, 724]}}
+,"24": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 724, 725, 726, 727, 724]}}
+,"25": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 724, 725, 726, 727, 724]}}
+,"26": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 724, 725, 726, 727, 724]}}
+,"27": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 721, 722, 723, 724, 721]}}
+,"28": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 721, 722, 723, 724, 721]}}
+,"29": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 721, 722, 723, 724, 721]}}
+,"30": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 721, 722, 723, 724, 721]}}
+,"31": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[459, 464, 465, 721, 722, 723, 724, 721]}}
+,"32": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"33": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"34": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"35": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"36": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"37": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"38": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"39": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"40": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"41": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"42": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"43": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"44": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"45": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"46": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"47": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"48": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"49": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"50": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"51": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"52": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"53": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"54": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"55": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"56": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"57": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"58": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"59": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"60": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"61": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"62": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"63": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"64": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
+,"65": {"7":{"org/apache/commons/lang3/math/NumberUtils.java":[455, 460, 461, 717, 718, 719, 720, 717]}}
 }
 ,
 {
 "bug": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1098, 1112, 1134]}}
-,"9": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1098, 1112, 1134]}}
-,"10": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1098, 1112, 1134]}}
-,"11": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1098, 1112, 1134]}}
-,"12": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1098, 1112, 1134]}}
-,"13": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1058, 1072, 1092]}}
-,"14": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"15": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"16": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"17": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"18": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"19": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"20": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"21": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"22": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"23": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"24": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"25": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"26": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"27": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"28": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"29": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"30": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"31": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"32": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"33": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"34": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"35": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"36": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"37": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"38": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"39": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"40": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"41": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"42": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"43": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"44": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"45": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"46": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"47": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"48": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"49": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"50": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"51": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"52": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"53": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"54": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"55": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"56": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"57": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"58": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"59": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"60": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"61": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"62": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"63": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"64": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
-,"65": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1082, 1102]}}
+,"9": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1098, 1110, 1127]}}
+,"10": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1098, 1110, 1127]}}
+,"11": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1098, 1110, 1127]}}
+,"12": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1098, 1110, 1127]}}
+,"13": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1058, 1070, 1085]}}
+,"14": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"15": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"16": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"17": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"18": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"19": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"20": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"21": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"22": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"23": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"24": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"25": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"26": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"27": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"28": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"29": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"30": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"31": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"32": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"33": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"34": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"35": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"36": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"37": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"38": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"39": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"40": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"41": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"42": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"43": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"44": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"45": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"46": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"47": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"48": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"49": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"50": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"51": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"52": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"53": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"54": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"55": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"56": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"57": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"58": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"59": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"60": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"61": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"62": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"63": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"64": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
+,"65": {"8":{"org/apache/commons/lang3/time/FastDatePrinter.java":[1068, 1080, 1095]}}
 }
 ,
 {
@@ -634,224 +634,224 @@
 ,
 {
 "bug": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[230, 231, 232, 238]}}
-,"13": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[230, 231, 232, 238]}}
-,"14": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[230, 231, 232, 238]}}
-,"15": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[230, 231, 232, 238]}}
-,"16": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[231, 232, 238]}}
-,"17": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[231, 232, 238]}}
-,"18": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[231, 232, 238]}}
-,"19": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[231, 232, 238]}}
-,"20": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[231, 232, 238]}}
-,"21": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"22": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"23": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"24": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"25": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"26": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"27": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"28": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"29": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"30": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"31": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 235, 241]}}
-,"32": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"33": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"34": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"35": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"36": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"37": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"38": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"39": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"40": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"41": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"42": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"43": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"44": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"45": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"46": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"47": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"48": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"49": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"50": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"51": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"52": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"53": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"54": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"55": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"56": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"57": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"58": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"59": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"60": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"61": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"62": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"63": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"64": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
-,"65": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 234, 240]}}
+,"13": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[230, 230, 231, 237]}}
+,"14": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[230, 230, 231, 237]}}
+,"15": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[230, 230, 231, 237]}}
+,"16": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[231, 237]}}
+,"17": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[231, 237]}}
+,"18": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[231, 237]}}
+,"19": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[231, 237]}}
+,"20": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[231, 237]}}
+,"21": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"22": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"23": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"24": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"25": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"26": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"27": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"28": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"29": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"30": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"31": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[234, 240]}}
+,"32": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"33": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"34": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"35": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"36": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"37": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"38": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"39": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"40": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"41": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"42": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"43": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"44": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"45": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"46": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"47": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"48": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"49": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"50": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"51": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"52": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"53": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"54": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"55": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"56": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"57": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"58": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"59": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"60": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"61": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"62": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"63": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"64": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
+,"65": {"12":{"org/apache/commons/lang3/RandomStringUtils.java":[233, 239]}}
 }
 ,
 {
 "bug": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[250, 251, 252, 268, 269]}}
-,"14": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[250, 251, 252, 268, 269]}}
-,"15": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[250, 251, 252, 268, 269]}}
-,"16": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[248, 249, 250, 266, 267]}}
-,"17": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[225, 226, 227, 243, 244]}}
-,"18": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[225, 226, 227, 243, 244]}}
-,"19": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[225, 226, 227, 243, 244]}}
-,"20": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[225, 226, 227, 243, 244]}}
-,"21": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[230, 231, 232, 248, 249]}}
-,"22": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[230, 231, 232, 248, 249]}}
-,"23": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[230, 231, 232, 248, 249]}}
-,"24": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[230, 231, 232, 248, 249]}}
-,"25": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[230, 231, 232, 248, 249]}}
-,"26": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[230, 231, 232, 248, 249]}}
-,"27": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[223, 224, 225, 241, 242]}}
-,"28": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[223, 224, 225, 241, 242]}}
-,"29": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[223, 224, 225, 241, 242]}}
-,"30": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[223, 224, 225, 241, 242]}}
-,"31": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[223, 224, 225, 241, 242]}}
-,"32": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"33": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"34": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"35": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"36": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"37": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"38": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"39": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"40": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"41": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"42": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"43": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"44": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"45": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"46": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"47": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"48": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"49": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"50": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"51": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"52": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"53": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"54": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"55": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"56": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"57": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"58": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"59": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"60": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"61": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"62": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"63": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"64": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
-,"65": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[222, 223, 224, 240, 241]}}
+,"14": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[248, 249, 249, 265, 266]}}
+,"15": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[248, 249, 249, 265, 266]}}
+,"16": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[246, 247, 247, 263, 264]}}
+,"17": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[223, 224, 224, 240, 241]}}
+,"18": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[223, 224, 224, 240, 241]}}
+,"19": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[223, 224, 224, 240, 241]}}
+,"20": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[223, 224, 224, 240, 241]}}
+,"21": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[228, 229, 229, 245, 246]}}
+,"22": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[228, 229, 229, 245, 246]}}
+,"23": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[228, 229, 229, 245, 246]}}
+,"24": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[228, 229, 229, 245, 246]}}
+,"25": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[228, 229, 229, 245, 246]}}
+,"26": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[228, 229, 229, 245, 246]}}
+,"27": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[221, 222, 222, 238, 239]}}
+,"28": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[221, 222, 222, 238, 239]}}
+,"29": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[221, 222, 222, 238, 239]}}
+,"30": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[221, 222, 222, 238, 239]}}
+,"31": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[221, 222, 222, 238, 239]}}
+,"32": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"33": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"34": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"35": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"36": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"37": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"38": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"39": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"40": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"41": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"42": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"43": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"44": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"45": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"46": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"47": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"48": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"49": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"50": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"51": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"52": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"53": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"54": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"55": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"56": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"57": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"58": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"59": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"60": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"61": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"62": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"63": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"64": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
+,"65": {"13":{"org/apache/commons/lang3/SerializationUtils.java":[220, 221, 221, 237, 238]}}
 }
 ,
 {
 "bug": {"14":{"org/apache/commons/lang3/StringUtils.java":[788, 789]}}
-,"15": {"14":{"org/apache/commons/lang3/StringUtils.java":[788, 789]}}
-,"16": {"14":{"org/apache/commons/lang3/StringUtils.java":[782, 783]}}
-,"17": {"14":{"org/apache/commons/lang3/StringUtils.java":[779, 780]}}
-,"18": {"14":{"org/apache/commons/lang3/StringUtils.java":[779, 780]}}
-,"19": {"14":{"org/apache/commons/lang3/StringUtils.java":[779, 780]}}
-,"20": {"14":{"org/apache/commons/lang3/StringUtils.java":[779, 780]}}
-,"21": {"14":{"org/apache/commons/lang3/StringUtils.java":[778]}}
-,"22": {"14":{"org/apache/commons/lang3/StringUtils.java":[770]}}
-,"23": {"14":{"org/apache/commons/lang3/StringUtils.java":[716]}}
-,"24": {"14":{"org/apache/commons/lang3/StringUtils.java":[716]}}
-,"25": {"14":{"org/apache/commons/lang3/StringUtils.java":[715]}}
-,"26": {"14":{"org/apache/commons/lang3/StringUtils.java":[715]}}
-,"27": {"14":{"org/apache/commons/lang3/StringUtils.java":[709]}}
-,"28": {"14":{"org/apache/commons/lang3/StringUtils.java":[709]}}
-,"29": {"14":{"org/apache/commons/lang3/StringUtils.java":[709]}}
-,"30": {"14":{"org/apache/commons/lang3/StringUtils.java":[706]}}
-,"31": {"14":{"org/apache/commons/lang3/StringUtils.java":[706]}}
-,"32": {"14":{"org/apache/commons/lang3/StringUtils.java":[705]}}
-,"33": {"14":{"org/apache/commons/lang3/StringUtils.java":[705]}}
-,"34": {"14":{"org/apache/commons/lang3/StringUtils.java":[705]}}
-,"35": {"14":{"org/apache/commons/lang3/StringUtils.java":[705]}}
-,"36": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"37": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"38": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"39": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"40": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"41": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"42": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"43": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"44": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"45": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"46": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"47": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"48": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"49": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"50": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"51": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"52": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"53": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"54": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"55": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"56": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"57": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"58": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"59": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"60": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"61": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"62": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"63": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"64": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
-,"65": {"14":{"org/apache/commons/lang3/StringUtils.java":[703]}}
+,"15": {"14":{"org/apache/commons/lang3/StringUtils.java":[788, 783]}}
+,"16": {"14":{"org/apache/commons/lang3/StringUtils.java":[782, 777]}}
+,"17": {"14":{"org/apache/commons/lang3/StringUtils.java":[779, 774]}}
+,"18": {"14":{"org/apache/commons/lang3/StringUtils.java":[779, 774]}}
+,"19": {"14":{"org/apache/commons/lang3/StringUtils.java":[779, 774]}}
+,"20": {"14":{"org/apache/commons/lang3/StringUtils.java":[779, 774]}}
+,"21": {"14":{"org/apache/commons/lang3/StringUtils.java":[778, 773]}}
+,"22": {"14":{"org/apache/commons/lang3/StringUtils.java":[770, 765]}}
+,"23": {"14":{"org/apache/commons/lang3/StringUtils.java":[716, 711]}}
+,"24": {"14":{"org/apache/commons/lang3/StringUtils.java":[716, 711]}}
+,"25": {"14":{"org/apache/commons/lang3/StringUtils.java":[715, 710]}}
+,"26": {"14":{"org/apache/commons/lang3/StringUtils.java":[715, 710]}}
+,"27": {"14":{"org/apache/commons/lang3/StringUtils.java":[709, 704]}}
+,"28": {"14":{"org/apache/commons/lang3/StringUtils.java":[709, 704]}}
+,"29": {"14":{"org/apache/commons/lang3/StringUtils.java":[709, 704]}}
+,"30": {"14":{"org/apache/commons/lang3/StringUtils.java":[706, 701]}}
+,"31": {"14":{"org/apache/commons/lang3/StringUtils.java":[706, 701]}}
+,"32": {"14":{"org/apache/commons/lang3/StringUtils.java":[705, 700]}}
+,"33": {"14":{"org/apache/commons/lang3/StringUtils.java":[705, 700]}}
+,"34": {"14":{"org/apache/commons/lang3/StringUtils.java":[705, 700]}}
+,"35": {"14":{"org/apache/commons/lang3/StringUtils.java":[705, 700]}}
+,"36": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"37": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"38": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"39": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"40": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"41": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"42": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"43": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"44": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"45": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"46": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"47": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"48": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"49": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"50": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"51": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"52": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"53": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"54": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"55": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"56": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"57": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"58": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"59": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"60": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"61": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"62": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"63": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"64": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
+,"65": {"14":{"org/apache/commons/lang3/StringUtils.java":[703, 698]}}
 }
 ,
 {
 "bug": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 675]}}
-,"16": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 675]}}
-,"17": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 675]}}
-,"18": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 675]}}
-,"19": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 675]}}
-,"20": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 675]}}
-,"21": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 673]}}
-,"22": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 673]}}
-,"23": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 673]}}
-,"24": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 673]}}
-,"25": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 673]}}
-,"26": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 673]}}
-,"27": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 673]}}
-,"28": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"29": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"30": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"31": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"32": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"33": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"34": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"35": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"36": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"37": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"38": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"39": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"40": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"41": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"42": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"43": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"44": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"45": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"46": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"47": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"48": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"49": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"50": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"51": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"52": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"53": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"54": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"55": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"56": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"57": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"58": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"59": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"60": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"61": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"62": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"63": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"64": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
-,"65": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 527]}}
+,"16": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 662]}}
+,"17": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 662]}}
+,"18": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 662]}}
+,"19": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 662]}}
+,"20": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[219, 220, 221, 662]}}
+,"21": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 660]}}
+,"22": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 660]}}
+,"23": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 660]}}
+,"24": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 660]}}
+,"25": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 660]}}
+,"26": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 660]}}
+,"27": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[221, 222, 223, 660]}}
+,"28": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"29": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"30": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"31": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"32": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"33": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"34": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"35": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"36": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"37": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"38": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"39": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"40": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"41": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"42": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"43": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"44": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"45": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"46": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"47": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"48": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"49": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"50": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"51": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"52": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"53": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"54": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"55": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"56": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"57": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"58": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"59": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"60": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"61": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"62": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"63": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"64": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
+,"65": {"15":{"org/apache/commons/lang3/reflect/TypeUtils.java":[130, 131, 132, 393]}}
 }
 ,
 {
@@ -909,204 +909,204 @@
 ,
 {
 "bug": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[83, 88, 89, 90, 94, 96, 97, 98, 101, 102]}}
-,"18": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[83, 88, 89, 90, 94, 96, 97, 98, 101, 102]}}
-,"19": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[83, 88, 89, 90, 94, 96, 97, 98, 101, 102]}}
-,"20": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[83, 88, 89, 90, 94, 96, 97, 98, 101, 102]}}
-,"21": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 97, 98, 99, 102, 103]}}
-,"22": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 98, 99, 102, 103]}}
-,"23": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 98, 99, 102, 103]}}
-,"24": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 98, 99, 102, 103]}}
-,"25": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 98, 99, 102, 103]}}
-,"26": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 98, 99, 102, 103]}}
-,"27": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 98, 99, 102, 103]}}
-,"28": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"29": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"30": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"31": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"32": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"33": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"34": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"35": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"36": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"37": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"38": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"39": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"40": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"41": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"42": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"43": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"44": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"45": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"46": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"47": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"48": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"49": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"50": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"51": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"52": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"53": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"54": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"55": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"56": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"57": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"58": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"59": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"60": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"61": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"62": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"63": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"64": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
-,"65": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 97, 98, 101, 102]}}
+,"18": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[83, 90, 91, 92, 96, 96, 97, 99, 103, 104]}}
+,"19": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[83, 90, 91, 92, 96, 96, 97, 99, 103, 104]}}
+,"20": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[83, 90, 91, 92, 96, 96, 97, 99, 103, 104]}}
+,"21": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 92, 93, 97, 97, 98, 100, 104, 105]}}
+,"22": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 97, 98, 100, 104, 105]}}
+,"23": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 97, 98, 100, 104, 105]}}
+,"24": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 97, 98, 100, 104, 105]}}
+,"25": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 97, 98, 100, 104, 105]}}
+,"26": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 97, 98, 100, 104, 105]}}
+,"27": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[85, 92, 97, 97, 98, 100, 104, 105]}}
+,"28": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"29": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"30": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"31": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"32": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"33": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"34": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"35": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"36": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"37": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"38": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"39": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"40": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"41": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"42": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"43": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"44": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"45": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"46": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"47": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"48": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"49": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"50": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"51": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"52": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"53": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"54": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"55": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"56": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"57": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"58": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"59": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"60": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"61": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"62": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"63": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"64": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
+,"65": {"17":{"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java":[84, 91, 96, 96, 97, 99, 103, 104]}}
 }
 ,
 {
 "bug": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[495, 496, 498]}}
-,"19": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[495, 496, 498]}}
-,"20": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[495, 496, 498]}}
-,"21": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"22": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"23": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"24": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"25": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"26": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"27": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"28": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"29": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"30": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"31": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"32": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"33": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"34": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"35": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"36": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"37": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"38": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"39": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"40": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"41": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"42": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"43": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"44": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"45": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"46": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"47": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"48": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"49": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"50": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"51": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"52": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"53": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"54": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"55": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"56": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"57": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"58": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"59": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"60": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"61": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"62": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"63": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"64": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
-,"65": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[615, 616, 618]}}
+,"19": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[489, 490, 492]}}
+,"20": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[489, 490, 492]}}
+,"21": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"22": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"23": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"24": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"25": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"26": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"27": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"28": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"29": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"30": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"31": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"32": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"33": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"34": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"35": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"36": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"37": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"38": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"39": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"40": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"41": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"42": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"43": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"44": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"45": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"46": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"47": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"48": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"49": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"50": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"51": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"52": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"53": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"54": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"55": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"56": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"57": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"58": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"59": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"60": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"61": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"62": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"63": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"64": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
+,"65": {"18":{"org/apache/commons/lang3/time/FastDateFormat.java":[609, 610, 612]}}
 }
 ,
 {
 "bug": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[40, 48, 49, 50, 54, 80]}}
-,"20": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[40, 48, 49, 50, 54, 80]}}
-,"21": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 81]}}
-,"22": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[42, 50, 51, 52, 56, 82]}}
-,"23": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[42, 50, 51, 52, 56, 82]}}
-,"24": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[42, 50, 51, 52, 56, 82]}}
-,"25": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[42, 50, 51, 52, 56, 82]}}
-,"26": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[42, 50, 51, 52, 56, 82]}}
-,"27": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[42, 50, 51, 52, 56, 82]}}
-,"28": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"29": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"30": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"31": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"32": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"33": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"34": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"35": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"36": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"37": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"38": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"39": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"40": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"41": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"42": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"43": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"44": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"45": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"46": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"47": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"48": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"49": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"50": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"51": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"52": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"53": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"54": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"55": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"56": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"57": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"58": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"59": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"60": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"61": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"62": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"63": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"64": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
-,"65": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[41, 49, 50, 51, 55, 76]}}
+,"20": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[38, 44, 45, 44, 48, 69]}}
+,"21": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 70]}}
+,"22": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[40, 46, 47, 46, 50, 71]}}
+,"23": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[40, 46, 47, 46, 50, 71]}}
+,"24": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[40, 46, 47, 46, 50, 71]}}
+,"25": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[40, 46, 47, 46, 50, 71]}}
+,"26": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[40, 46, 47, 46, 50, 71]}}
+,"27": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[40, 46, 47, 46, 50, 71]}}
+,"28": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"29": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"30": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"31": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"32": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"33": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"34": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"35": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"36": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"37": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"38": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"39": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"40": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"41": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"42": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"43": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"44": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"45": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"46": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"47": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"48": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"49": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"50": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"51": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"52": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"53": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"54": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"55": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"56": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"57": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"58": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"59": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"60": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"61": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"62": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"63": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"64": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
+,"65": {"19":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[39, 45, 46, 45, 49, 65]}}
 }
 ,
 {
 "bug": {"20":{"org/apache/commons/lang3/StringUtils.java":[3298, 3383]}}
-,"21": {"20":{"org/apache/commons/lang3/StringUtils.java":[3312, 3397]}}
-,"22": {"20":{"org/apache/commons/lang3/StringUtils.java":[3304, 3389]}}
-,"23": {"20":{"org/apache/commons/lang3/StringUtils.java":[3250, 3335]}}
-,"24": {"20":{"org/apache/commons/lang3/StringUtils.java":[3250, 3335]}}
-,"25": {"20":{"org/apache/commons/lang3/StringUtils.java":[3249, 3334]}}
-,"26": {"20":{"org/apache/commons/lang3/StringUtils.java":[3248, 3333]}}
-,"27": {"20":{"org/apache/commons/lang3/StringUtils.java":[3241, 3326]}}
-,"28": {"20":{"org/apache/commons/lang3/StringUtils.java":[3241, 3326]}}
-,"29": {"20":{"org/apache/commons/lang3/StringUtils.java":[3219, 3304]}}
-,"30": {"20":{"org/apache/commons/lang3/StringUtils.java":[3119, 3204]}}
-,"31": {"20":{"org/apache/commons/lang3/StringUtils.java":[3107, 3192]}}
-,"32": {"20":{"org/apache/commons/lang3/StringUtils.java":[3095, 3180]}}
-,"33": {"20":{"org/apache/commons/lang3/StringUtils.java":[3095, 3180]}}
-,"34": {"20":{"org/apache/commons/lang3/StringUtils.java":[3095, 3180]}}
-,"35": {"20":{"org/apache/commons/lang3/StringUtils.java":[3095, 3180]}}
-,"36": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"37": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"38": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"39": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"40": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"41": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"42": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"43": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"44": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"45": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"46": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"47": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"48": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"49": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"50": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"51": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"52": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"53": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"54": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"55": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"56": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"57": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"58": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"59": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"60": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"61": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"62": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"63": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"64": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
-,"65": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3178]}}
+,"21": {"20":{"org/apache/commons/lang3/StringUtils.java":[3312, 3399]}}
+,"22": {"20":{"org/apache/commons/lang3/StringUtils.java":[3304, 3391]}}
+,"23": {"20":{"org/apache/commons/lang3/StringUtils.java":[3250, 3337]}}
+,"24": {"20":{"org/apache/commons/lang3/StringUtils.java":[3250, 3337]}}
+,"25": {"20":{"org/apache/commons/lang3/StringUtils.java":[3249, 3336]}}
+,"26": {"20":{"org/apache/commons/lang3/StringUtils.java":[3248, 3335]}}
+,"27": {"20":{"org/apache/commons/lang3/StringUtils.java":[3241, 3328]}}
+,"28": {"20":{"org/apache/commons/lang3/StringUtils.java":[3241, 3328]}}
+,"29": {"20":{"org/apache/commons/lang3/StringUtils.java":[3219, 3306]}}
+,"30": {"20":{"org/apache/commons/lang3/StringUtils.java":[3119, 3206]}}
+,"31": {"20":{"org/apache/commons/lang3/StringUtils.java":[3107, 3194]}}
+,"32": {"20":{"org/apache/commons/lang3/StringUtils.java":[3095, 3182]}}
+,"33": {"20":{"org/apache/commons/lang3/StringUtils.java":[3095, 3182]}}
+,"34": {"20":{"org/apache/commons/lang3/StringUtils.java":[3095, 3182]}}
+,"35": {"20":{"org/apache/commons/lang3/StringUtils.java":[3095, 3182]}}
+,"36": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"37": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"38": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"39": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"40": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"41": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"42": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"43": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"44": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"45": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"46": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"47": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"48": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"49": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"50": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"51": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"52": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"53": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"54": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"55": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"56": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"57": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"58": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"59": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"60": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"61": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"62": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"63": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"64": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
+,"65": {"20":{"org/apache/commons/lang3/StringUtils.java":[3093, 3180]}}
 }
 ,
 {
@@ -1159,54 +1159,54 @@
 ,
 {
 "bug": {"22":{"org/apache/commons/lang3/math/Fraction.java":[582, 583, 584]}}
-,"23": {"22":{"org/apache/commons/lang3/math/Fraction.java":[578, 579, 580]}}
-,"24": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"25": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"26": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"27": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"28": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"29": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"30": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"31": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"32": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"33": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"34": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"35": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"36": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"37": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"38": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"39": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"40": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"41": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"42": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"43": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"44": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"45": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"46": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"47": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"48": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"49": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"50": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"51": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"52": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"53": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"54": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"55": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"56": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"57": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"58": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"59": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"60": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"61": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"62": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"63": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"64": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
-,"65": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 579]}}
+,"23": {"22":{"org/apache/commons/lang3/math/Fraction.java":[578, 579, 579]}}
+,"24": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"25": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"26": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"27": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"28": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"29": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"30": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"31": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"32": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"33": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"34": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"35": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"36": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"37": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"38": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"39": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"40": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"41": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"42": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"43": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"44": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"45": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"46": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"47": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"48": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"49": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"50": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"51": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"52": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"53": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"54": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"55": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"56": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"57": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"58": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"59": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"60": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"61": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"62": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"63": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"64": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
+,"65": {"22":{"org/apache/commons/lang3/math/Fraction.java":[577, 578, 578]}}
 }
 ,
 {
 "bug": {"23":{"org/apache/commons/lang3/text/ExtendedMessageFormat.java":[]}}
-,"44f2d5fe6e4791a4c23ea246419044aabc2b4a2b": "failed"
+,"23": "failed"
 }
 ,
 {
@@ -1385,43 +1385,43 @@
 ,
 {
 "bug": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"29": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"30": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"31": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"32": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"33": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"34": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"35": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"36": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"37": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"38": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"39": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"40": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"41": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"42": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"43": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"44": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"45": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"46": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"47": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"48": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"49": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"50": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"51": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"52": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"53": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"54": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"55": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"56": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"57": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"58": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"59": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"60": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"61": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"62": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"63": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"64": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
-,"65": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 64]}}
+,"29": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"30": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"31": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"32": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"33": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"34": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"35": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"36": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"37": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"38": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"39": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"40": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"41": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"42": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"43": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"44": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"45": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"46": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"47": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"48": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"49": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"50": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"51": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"52": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"53": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"54": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"55": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"56": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"57": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"58": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"59": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"60": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"61": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"62": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"63": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"64": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
+,"65": {"28":{"org/apache/commons/lang3/text/translate/NumericEntityUnescaper.java":[62, 63, 65]}}
 }
 ,
 {
@@ -1466,41 +1466,41 @@
 ,
 {
 "bug": {"30":{"org/apache/commons/lang3/StringUtils.java":[1376, 1377, 1381, 1382, 1383, 1443, 1455, 1456, 1457, 1497, 1533, 1534, 1539, 1540, 1576, 1579, 1678, 1679, 1683, 1684, 1685, 1686]}}
-,"31": {"30":{"org/apache/commons/lang3/StringUtils.java":[1376, 1377, 1381, 1382, 1383, 1485, 1521, 1522, 1527, 1528, 1564, 1567, 1666, 1667, 1671, 1672, 1673, 1674]}}
-,"32": {"30":{"org/apache/commons/lang3/StringUtils.java":[1365, 1369, 1370, 1473, 1509, 1510, 1515, 1516, 1552, 1555, 1654, 1655, 1660, 1662]}}
-,"33": {"30":{"org/apache/commons/lang3/StringUtils.java":[1365, 1369, 1370, 1473, 1509, 1510, 1515, 1516, 1552, 1555, 1654, 1655, 1660, 1662]}}
-,"34": {"30":{"org/apache/commons/lang3/StringUtils.java":[1365, 1369, 1370, 1473, 1509, 1510, 1515, 1516, 1552, 1555, 1654, 1655, 1660, 1662]}}
-,"35": {"30":{"org/apache/commons/lang3/StringUtils.java":[1365, 1369, 1370, 1473, 1509, 1510, 1515, 1516, 1552, 1555, 1654, 1655, 1660, 1662]}}
-,"36": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"37": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"38": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"39": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"40": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"41": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"42": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"43": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"44": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"45": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"46": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"47": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"48": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"49": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"50": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"51": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"52": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"53": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"54": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"55": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"56": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"57": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"58": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"59": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"60": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"61": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"62": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"63": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"64": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
-,"65": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1367, 1368, 1471, 1507, 1508, 1513, 1514, 1550, 1553, 1652, 1653, 1658, 1660]}}
+,"31": {"30":{"org/apache/commons/lang3/StringUtils.java":[1376, 1377, 1379, 1380, 1380, 1482, 1518, 1519, 1521, 1522, 1558, 1559, 1658, 1659, 1663, 1664, 1665, 1664]}}
+,"32": {"30":{"org/apache/commons/lang3/StringUtils.java":[1365, 1367, 1368, 1368, 1507, 1509, 1510, 1546, 1547, 1646, 1647, 1651, 1652, 1653, 1652]}}
+,"33": {"30":{"org/apache/commons/lang3/StringUtils.java":[1365, 1367, 1368, 1368, 1507, 1509, 1510, 1546, 1547, 1646, 1647, 1651, 1652, 1653, 1652]}}
+,"34": {"30":{"org/apache/commons/lang3/StringUtils.java":[1365, 1367, 1368, 1368, 1507, 1509, 1510, 1546, 1547, 1646, 1647, 1651, 1652, 1653, 1652]}}
+,"35": {"30":{"org/apache/commons/lang3/StringUtils.java":[1365, 1367, 1368, 1368, 1507, 1509, 1510, 1546, 1547, 1646, 1647, 1651, 1652, 1653, 1652]}}
+,"36": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"37": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"38": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"39": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"40": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"41": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"42": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"43": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"44": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"45": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"46": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"47": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"48": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"49": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"50": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"51": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"52": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"53": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"54": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"55": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"56": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"57": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"58": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"59": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"60": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"61": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"62": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"63": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"64": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
+,"65": {"30":{"org/apache/commons/lang3/StringUtils.java":[1363, 1365, 1366, 1366, 1505, 1507, 1508, 1544, 1545, 1644, 1645, 1649, 1650, 1651, 1650]}}
 }
 ,
 {
@@ -1543,75 +1543,75 @@
 ,
 {
 "bug": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[104, 105, 106, 107, 108, 109, 152, 522, 538, 539]}}
-,"33": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[104, 105, 106, 107, 108, 109, 152, 522, 538, 539]}}
-,"34": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[104, 105, 106, 107, 108, 109, 152, 522, 538, 539]}}
-,"35": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[107, 108, 109, 110, 111, 112, 155, 525, 541, 542]}}
-,"36": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"37": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"38": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"39": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"40": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"41": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"42": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"43": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"44": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"45": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"46": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"47": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"48": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"49": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"50": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"51": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"52": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"53": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"54": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"55": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"56": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"57": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"58": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"59": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"60": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"61": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"62": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"63": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"64": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
-,"65": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 108, 109, 110, 153, 524, 540, 541]}}
+,"33": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[104, 105, 106, 109, 110, 111, 154, 524, 540, 541]}}
+,"34": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[104, 105, 106, 109, 110, 111, 154, 524, 540, 541]}}
+,"35": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[107, 108, 109, 112, 113, 114, 157, 527, 543, 544]}}
+,"36": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"37": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"38": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"39": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"40": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"41": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"42": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"43": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"44": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"45": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"46": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"47": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"48": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"49": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"50": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"51": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"52": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"53": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"54": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"55": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"56": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"57": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"58": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"59": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"60": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"61": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"62": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"63": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"64": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
+,"65": {"32":{"org/apache/commons/lang3/builder/HashCodeBuilder.java":[105, 106, 107, 110, 111, 112, 155, 526, 542, 543]}}
 }
 ,
 {
 "bug": {"33":{"org/apache/commons/lang3/ClassUtils.java":[910]}}
-,"34": {"33":{"org/apache/commons/lang3/ClassUtils.java":[910]}}
-,"35": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"36": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"37": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"38": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"39": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"40": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"41": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"42": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"43": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"44": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"45": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"46": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"47": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"48": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"49": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"50": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"51": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"52": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"53": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"54": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"55": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"56": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"57": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"58": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"59": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"60": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"61": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"62": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"63": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"64": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
-,"65": {"33":{"org/apache/commons/lang3/ClassUtils.java":[896]}}
+,"34": {"33":{"org/apache/commons/lang3/ClassUtils.java":[909]}}
+,"35": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"36": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"37": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"38": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"39": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"40": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"41": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"42": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"43": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"44": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"45": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"46": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"47": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"48": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"49": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"50": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"51": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"52": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"53": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"54": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"55": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"56": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"57": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"58": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"59": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"60": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"61": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"62": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"63": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"64": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
+,"65": {"33":{"org/apache/commons/lang3/ClassUtils.java":[895]}}
 }
 ,
 {
@@ -1651,36 +1651,36 @@
 ,
 {
 "bug": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"36": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"37": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"38": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"39": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"40": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"41": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"42": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"43": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"44": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"45": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"46": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"47": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"48": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"49": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"50": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"51": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"52": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"53": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"54": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"55": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"56": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"57": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"58": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"59": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"60": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"61": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"62": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"63": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"64": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
-,"65": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3295, 3574]}}
+,"36": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"37": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"38": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"39": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"40": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"41": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"42": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"43": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"44": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"45": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"46": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"47": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"48": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"49": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"50": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"51": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"52": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"53": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"54": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"55": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"56": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"57": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"58": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"59": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"60": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"61": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"62": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"63": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"64": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
+,"65": {"35":{"org/apache/commons/lang3/ArrayUtils.java":[3294, 3565]}}
 }
 ,
 {
