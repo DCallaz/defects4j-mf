@@ -4,6 +4,11 @@ warn=`tput setaf 3`
 err=`tput setaf 1`
 reset=`tput sgr0`
 
+if [ $# -lt 3 ]; then
+  echo "USAGE: ./single_coverage.sh <project> <version> <savedir>"
+  exit 0
+fi
+
 project=$1
 version=$2
 savedir=$3

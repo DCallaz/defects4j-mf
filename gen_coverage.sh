@@ -32,7 +32,7 @@ run_with_lock() {
   )&
 }
 
-N=5
+N=4
 open_sem $N
 
 #[ -d /root/fault_data/"$project"/ ] && rm -r /root/fault_data/"$project"/
@@ -48,9 +48,12 @@ open_sem $N
 #echo "Done cloning"
 
 versions="$(python3 dump_versions.py $project)"
+#versions="$(cat $project.vers)"
 for version in $versions; do
-  echo $version
-  run_with_lock ./single_coverage.sh $project $version $savedir
+  if [ ! -d "$savedir/$project/$version" ]; then
+    echo $version
+    run_with_lock ./single_coverage.sh $project $version $savedir
+  fi
 done
 wait
 #rm -r /tmp/$project-*
