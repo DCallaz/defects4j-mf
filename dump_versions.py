@@ -12,15 +12,23 @@ def powerset(s):
 if __name__ == "__main__":
   fault_dir = json.load(open(osp.join(os.environ['D4J_HOME'],
       "framework/bin/config.json")))['FAULT_DIR']
-  names = ["Chart", "Cli", "Closure", "Codec", "Collections", "Compress",
-    "Csv", "Gson", "JacksonCore", "JacksonDatabind", "JacksonXml", "Jsoup",
-    "JxPath", "Lang", "Math", "Mockito", "Time"]
-  if (len(sys.argv) < 2 or sys.argv[1] not in names):
-    print("USAGE: python dump_versions.py <project>")
+  if (len(sys.argv) < 2):
+    print("USAGE: python dump_versions.py <project> [all]")
     quit()
   name = sys.argv[1]
-  f = open(osp.join(fault_dir,name+".json"))
-  js = json.loads(f.read())
+  print_all = False
+  if (len(sys.argv) > 2 and sys.argv[2] == "all"):
+      print_all = True
+  if (not osp.isfile(osp.join(fault_dir, name+".json"))):
+      print("ERROR: project", name, "not found")
+      quit()
+  sys.path.append(osp.join(os.environ['D4J_HOME'], "framework", "bin"))
+  from backtrack import backtrack
+  test_case_versions = open(osp.join(fault_dir, name+".json"))
+  js = json.loads(test_case_versions.read())
+
+  location_versions = open(osp.join(fault_dir, name+"_backtrack.json"))
+  loc_js = json.loads(location_versions.read())
   for key in js.keys():
     faults = [int(key)]
     for val in js[key].keys():
@@ -29,7 +37,7 @@ if __name__ == "__main__":
     faults.sort()
     s = name
     for fault in faults:
-        s += "-"+str(fault)
+        if (print_all or not backtrack(name, str(fault),
+            str(key)).startswith("Bug not found")):
+            s += "-"+str(fault)
     print(s)
-
-
