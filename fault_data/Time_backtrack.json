@@ -1,460 +1,450 @@
 [
 {
-"bug": {"1":{"org/joda/time/Partial.java":[217, 221], "org/joda/time/field/UnsupportedDurationField.java":[227, 228, 229]}}
-,"2": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"3": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"4": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"5": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"6": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"7": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"8": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"9": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"10": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"11": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"12": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"13": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"14": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"15": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"16": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"17": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"18": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"19": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"20": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"21": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"22": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"23": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"24": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"25": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"26": {"1":{"org/joda/time/Partial.java":[217, 221]}}
-,"27": {"1":{"org/joda/time/Partial.java":[217, 221]}}
+"bug": {"1": {"org/joda/time/Partial.java": [217, 221], "org/joda/time/field/UnsupportedDurationField.java": [227, 228, 229]}}
+,"2": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"3": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"4": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"5": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"6": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"7": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"8": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"9": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"10": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"11": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"12": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"13": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"14": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"15": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"16": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"17": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"18": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"19": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"20": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"21": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"22": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"23": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"24": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"25": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"26": {"1": {"org/joda/time/Partial.java": [217, 221]}}
+,"27": {"1": {"org/joda/time/Partial.java": [217, 221]}}
 }
 ,
 {
-"bug": {"2":{"org/joda/time/Partial.java":[218, 449], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"3": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"4": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"5": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"6": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"7": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"8": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"9": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"10": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"11": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"12": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"13": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"14": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"15": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"16": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"17": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"18": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"19": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"20": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"21": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"22": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"23": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"24": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"25": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"26": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
-,"27": {"2":{"org/joda/time/Partial.java":[218, 447], "org/joda/time/field/UnsupportedDurationField.java":[227]}}
+"bug": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"3": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"4": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"5": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"6": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"7": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"8": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"9": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"10": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"11": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"12": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"13": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"14": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"15": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"16": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"17": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"18": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"19": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"20": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"21": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"22": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"23": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"24": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"25": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"26": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
+,"27": {"2": {"org/joda/time/Partial.java": [218, 449], "org/joda/time/field/UnsupportedDurationField.java": [227]}}
 }
 ,
 {
-"bug": {"3":{"org/joda/time/MutableDateTime.java":[639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
-,"4": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"5": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"6": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"7": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"8": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"9": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"10": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"11": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"12": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"13": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"14": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"15": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"16": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"17": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"18": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"19": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"20": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"21": {"3":{"org/joda/time/MutableDateTime.java":[640, 641, 661, 662, 682, 683, 703, 704, 724, 725, 765, 766, 786, 787, 817, 818, 848, 849, 881, 882]}}
-,"22": {"3":{"org/joda/time/MutableDateTime.java":[594, 595, 615, 616, 636, 637, 657, 658, 678, 679, 719, 720, 740, 741, 771, 772, 802, 803, 835, 836]}}
-,"23": {"3":{"org/joda/time/MutableDateTime.java":[594, 595, 615, 616, 636, 637, 657, 658, 678, 679, 719, 720, 740, 741, 771, 772, 802, 803, 835, 836]}}
-,"24": {"3":{"org/joda/time/MutableDateTime.java":[594, 595, 615, 616, 636, 637, 657, 658, 678, 679, 719, 720, 740, 741, 771, 772, 802, 803, 835, 836]}}
-,"25": {"3":{"org/joda/time/MutableDateTime.java":[594, 595, 615, 616, 636, 637, 657, 658, 678, 679, 719, 720, 740, 741, 771, 772, 802, 803, 835, 836]}}
-,"26": {"3":{"org/joda/time/MutableDateTime.java":[594, 595, 615, 616, 636, 637, 657, 658, 678, 679, 719, 720, 740, 741, 771, 772, 802, 803, 835, 836]}}
-,"27": {"3":{"org/joda/time/MutableDateTime.java":[566, 567, 587, 588, 608, 609, 629, 630, 650, 651, 691, 692, 712, 713, 743, 744, 774, 775, 807, 808]}}
+"bug": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"4": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"5": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"6": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"7": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"8": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"9": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"10": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"11": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"12": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"13": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"14": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"15": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"16": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"17": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"18": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"19": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"20": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"21": {"3": {"org/joda/time/MutableDateTime.java": [639, 640, 660, 661, 681, 682, 702, 703, 723, 724, 764, 765, 785, 786, 816, 817, 847, 848, 880, 881]}}
+,"22": {"3": {"org/joda/time/MutableDateTime.java": [593, 594, 614, 615, 635, 636, 656, 657, 677, 678, 718, 719, 739, 740, 770, 771, 801, 802, 834, 835]}}
+,"23": {"3": {"org/joda/time/MutableDateTime.java": [593, 594, 614, 615, 635, 636, 656, 657, 677, 678, 718, 719, 739, 740, 770, 771, 801, 802, 834, 835]}}
+,"24": {"3": {"org/joda/time/MutableDateTime.java": [593, 594, 614, 615, 635, 636, 656, 657, 677, 678, 718, 719, 739, 740, 770, 771, 801, 802, 834, 835]}}
+,"25": {"3": {"org/joda/time/MutableDateTime.java": [593, 594, 614, 615, 635, 636, 656, 657, 677, 678, 718, 719, 739, 740, 770, 771, 801, 802, 834, 835]}}
+,"26": {"3": {"org/joda/time/MutableDateTime.java": [593, 594, 614, 615, 635, 636, 656, 657, 677, 678, 718, 719, 739, 740, 770, 771, 801, 802, 834, 835]}}
+,"27": {"3": {"org/joda/time/MutableDateTime.java": [593, 594, 614, 615, 635, 636, 656, 657, 677, 678, 718, 719, 739, 740, 770, 771, 801, 802, 834, 835]}}
 }
 ,
 {
-"bug": {"4":{"org/joda/time/Partial.java":[464]}}
-,"5": {"4":{"org/joda/time/Partial.java":[463]}}
-,"6": {"4":{"org/joda/time/Partial.java":[463]}}
-,"7": {"4":{"org/joda/time/Partial.java":[463]}}
-,"8": {"4":{"org/joda/time/Partial.java":[463]}}
-,"9": {"4":{"org/joda/time/Partial.java":[463]}}
-,"10": {"4":{"org/joda/time/Partial.java":[463]}}
-,"11": {"4":{"org/joda/time/Partial.java":[463]}}
-,"12": {"4":{"org/joda/time/Partial.java":[463]}}
-,"13": {"4":{"org/joda/time/Partial.java":[463]}}
-,"14": {"4":{"org/joda/time/Partial.java":[463]}}
-,"15": {"4":{"org/joda/time/Partial.java":[463]}}
-,"16": {"4":{"org/joda/time/Partial.java":[463]}}
-,"17": {"4":{"org/joda/time/Partial.java":[463]}}
-,"18": {"4":{"org/joda/time/Partial.java":[463]}}
-,"19": {"4":{"org/joda/time/Partial.java":[463]}}
-,"20": {"4":{"org/joda/time/Partial.java":[463]}}
-,"21": {"4":{"org/joda/time/Partial.java":[463]}}
-,"22": {"4":{"org/joda/time/Partial.java":[463]}}
-,"23": {"4":{"org/joda/time/Partial.java":[463]}}
-,"24": {"4":{"org/joda/time/Partial.java":[463]}}
-,"25": {"4":{"org/joda/time/Partial.java":[463]}}
-,"26": {"4":{"org/joda/time/Partial.java":[463]}}
-,"27": {"4":{"org/joda/time/Partial.java":[463]}}
+"bug": {"4": {"org/joda/time/Partial.java": [464]}}
+,"5": {"4": {"org/joda/time/Partial.java": [464]}}
+,"6": {"4": {"org/joda/time/Partial.java": [464]}}
+,"7": {"4": {"org/joda/time/Partial.java": [464]}}
+,"8": {"4": {"org/joda/time/Partial.java": [464]}}
+,"9": {"4": {"org/joda/time/Partial.java": [464]}}
+,"10": {"4": {"org/joda/time/Partial.java": [464]}}
+,"11": {"4": {"org/joda/time/Partial.java": [464]}}
+,"12": {"4": {"org/joda/time/Partial.java": [464]}}
+,"13": {"4": {"org/joda/time/Partial.java": [464]}}
+,"14": {"4": {"org/joda/time/Partial.java": [464]}}
+,"15": {"4": {"org/joda/time/Partial.java": [464]}}
+,"16": {"4": {"org/joda/time/Partial.java": [464]}}
+,"17": {"4": {"org/joda/time/Partial.java": [464]}}
+,"18": {"4": {"org/joda/time/Partial.java": [464]}}
+,"19": {"4": {"org/joda/time/Partial.java": [464]}}
+,"20": {"4": {"org/joda/time/Partial.java": [464]}}
+,"21": {"4": {"org/joda/time/Partial.java": [464]}}
+,"22": {"4": {"org/joda/time/Partial.java": [464]}}
+,"23": {"4": {"org/joda/time/Partial.java": [464]}}
+,"24": {"4": {"org/joda/time/Partial.java": [464]}}
+,"25": {"4": {"org/joda/time/Partial.java": [464]}}
+,"26": {"4": {"org/joda/time/Partial.java": [464]}}
+,"27": {"4": {"org/joda/time/Partial.java": [464]}}
 }
 ,
 {
-"bug": {"5":{"org/joda/time/Period.java":[1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635]}}
-,"6": {"5":{"org/joda/time/Period.java":[1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634]}}
-,"7": {"5":{"org/joda/time/Period.java":[1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634]}}
-,"8": {"5":{"org/joda/time/Period.java":[1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634]}}
-,"9": {"5":{"org/joda/time/Period.java":[1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634]}}
-,"10": {"5":{"org/joda/time/Period.java":[1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601]}}
-,"11": {"5":{"org/joda/time/Period.java":[1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601]}}
-,"12": {"5":{"org/joda/time/Period.java":[1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601]}}
-,"13": {"5":{"org/joda/time/Period.java":[1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601]}}
-,"14": {"5":{"org/joda/time/Period.java":[1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601]}}
-,"15": {"5":{"org/joda/time/Period.java":[1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601]}}
-,"16": {"5":{"org/joda/time/Period.java":[1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601]}}
-,"17": {"5":{"org/joda/time/Period.java":[1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569]}}
-,"18": {"5":{"org/joda/time/Period.java":[1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569]}}
-,"19": {"5":{"org/joda/time/Period.java":[1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569]}}
-,"20": {"5":{"org/joda/time/Period.java":[1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569]}}
-,"21": {"5":{"org/joda/time/Period.java":[1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569]}}
-,"22": {"5":{"org/joda/time/Period.java":[1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569]}}
-,"23": {"5":{"org/joda/time/Period.java":[1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569]}}
-,"24": {"5":{"org/joda/time/Period.java":[1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569]}}
-,"25": {"5":{"org/joda/time/Period.java":[1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569]}}
-,"26": {"5":{"org/joda/time/Period.java":[1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569]}}
-,"27": {"5":{"org/joda/time/Period.java":[1535, 1536, 1537, 1538, 1539, 1540, 1541, 1542]}}
+"bug": {"5": {"org/joda/time/Period.java": [1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635]}}
+,"6": {"5": {"org/joda/time/Period.java": [1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635]}}
+,"7": {"5": {"org/joda/time/Period.java": [1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635]}}
+,"8": {"5": {"org/joda/time/Period.java": [1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635]}}
+,"9": {"5": {"org/joda/time/Period.java": [1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635]}}
+,"10": {"5": {"org/joda/time/Period.java": [1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602]}}
+,"11": {"5": {"org/joda/time/Period.java": [1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602]}}
+,"12": {"5": {"org/joda/time/Period.java": [1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602]}}
+,"13": {"5": {"org/joda/time/Period.java": [1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602]}}
+,"14": {"5": {"org/joda/time/Period.java": [1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602]}}
+,"15": {"5": {"org/joda/time/Period.java": [1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602]}}
+,"16": {"5": {"org/joda/time/Period.java": [1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602]}}
+,"17": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
+,"18": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
+,"19": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
+,"20": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
+,"21": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
+,"22": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
+,"23": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
+,"24": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
+,"25": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
+,"26": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
+,"27": {"5": {"org/joda/time/Period.java": [1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]}}
 }
 ,
 {
-"bug": {"6":{"org/joda/time/chrono/GJChronology.java":[196, 979, 1001]}}
-,"7": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 978, 999]}}
-,"8": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 970, 991]}}
-,"9": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 970, 991]}}
-,"10": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 970, 991]}}
-,"11": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 970, 991]}}
-,"12": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 970, 991]}}
-,"13": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 970, 991]}}
-,"14": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 970, 991]}}
-,"15": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 970, 991]}}
-,"16": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 970, 991]}}
-,"17": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 970, 991]}}
-,"18": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 957, 978]}}
-,"19": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 957, 978]}}
-,"20": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 957, 978]}}
-,"21": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 957, 978]}}
-,"22": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 957, 978]}}
-,"23": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 957, 978]}}
-,"24": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 957, 978]}}
-,"25": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 957, 978]}}
-,"26": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 957, 978]}}
-,"27": {"6":{"org/joda/time/chrono/GJChronology.java":[195, 957, 978]}}
+"bug": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 979, 1001]}}
+,"7": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 979, 1001]}}
+,"8": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 971, 993]}}
+,"9": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 971, 993]}}
+,"10": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 971, 993]}}
+,"11": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 971, 993]}}
+,"12": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 971, 993]}}
+,"13": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 971, 993]}}
+,"14": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 971, 993]}}
+,"15": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 971, 993]}}
+,"16": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 971, 993]}}
+,"17": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 971, 993]}}
+,"18": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 958, 980]}}
+,"19": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 958, 980]}}
+,"20": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 958, 980]}}
+,"21": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 958, 980]}}
+,"22": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 958, 980]}}
+,"23": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 958, 980]}}
+,"24": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 958, 980]}}
+,"25": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 958, 980]}}
+,"26": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 958, 980]}}
+,"27": {"6": {"org/joda/time/chrono/GJChronology.java": [196, 958, 980]}}
 }
 ,
 {
-"bug": {"7":{"org/joda/time/format/DateTimeFormatter.java":[708, 709, 710]}}
-,"8": {"7":{"org/joda/time/format/DateTimeFormatter.java":[706, 707, 708]}}
-,"9": {"7":{"org/joda/time/format/DateTimeFormatter.java":[706, 707, 708]}}
-,"10": {"7":{"org/joda/time/format/DateTimeFormatter.java":[706, 707, 708]}}
-,"11": {"7":{"org/joda/time/format/DateTimeFormatter.java":[706, 707, 708]}}
-,"12": {"7":{"org/joda/time/format/DateTimeFormatter.java":[705, 706, 707]}}
-,"13": {"7":{"org/joda/time/format/DateTimeFormatter.java":[705, 706, 707]}}
-,"14": {"7":{"org/joda/time/format/DateTimeFormatter.java":[705, 706, 707]}}
-,"15": {"7":{"org/joda/time/format/DateTimeFormatter.java":[705, 706, 707]}}
-,"16": {"7":{"org/joda/time/format/DateTimeFormatter.java":[701, 702, 703]}}
-,"17": {"7":{"org/joda/time/format/DateTimeFormatter.java":[701, 702, 703]}}
-,"18": {"7":{"org/joda/time/format/DateTimeFormatter.java":[701, 702, 703]}}
-,"19": {"7":{"org/joda/time/format/DateTimeFormatter.java":[701, 702, 703]}}
-,"20": {"7":{"org/joda/time/format/DateTimeFormatter.java":[701, 702, 703]}}
-,"21": {"7":{"org/joda/time/format/DateTimeFormatter.java":[701, 702, 703]}}
-,"22": {"7":{"org/joda/time/format/DateTimeFormatter.java":[700, 701, 702]}}
-,"23": {"7":{"org/joda/time/format/DateTimeFormatter.java":[700, 701, 702]}}
-,"24": {"7":{"org/joda/time/format/DateTimeFormatter.java":[700, 701, 702]}}
-,"25": {"7":{"org/joda/time/format/DateTimeFormatter.java":[700, 701, 702]}}
-,"26": {"7":{"org/joda/time/format/DateTimeFormatter.java":[700, 701, 702]}}
-,"27": {"7":{"org/joda/time/format/DateTimeFormatter.java":[662, 663, 664]}}
+"bug": {"7": {"org/joda/time/format/DateTimeFormatter.java": [708, 709, 710]}}
+,"8": {"7": {"org/joda/time/format/DateTimeFormatter.java": [708, 709, 710]}}
+,"9": {"7": {"org/joda/time/format/DateTimeFormatter.java": [708, 709, 710]}}
+,"10": {"7": {"org/joda/time/format/DateTimeFormatter.java": [708, 709, 710]}}
+,"11": {"7": {"org/joda/time/format/DateTimeFormatter.java": [708, 709, 710]}}
+,"12": {"7": {"org/joda/time/format/DateTimeFormatter.java": [707, 708, 709]}}
+,"13": {"7": {"org/joda/time/format/DateTimeFormatter.java": [707, 708, 709]}}
+,"14": {"7": {"org/joda/time/format/DateTimeFormatter.java": [707, 708, 709]}}
+,"15": {"7": {"org/joda/time/format/DateTimeFormatter.java": [707, 708, 709]}}
+,"16": {"7": {"org/joda/time/format/DateTimeFormatter.java": [703, 704]}}
+,"17": {"7": {"org/joda/time/format/DateTimeFormatter.java": [703, 704]}}
+,"18": {"7": {"org/joda/time/format/DateTimeFormatter.java": [703, 704]}}
+,"19": {"7": {"org/joda/time/format/DateTimeFormatter.java": [703, 704]}}
+,"20": {"7": {"org/joda/time/format/DateTimeFormatter.java": [703, 704]}}
+,"21": {"7": {"org/joda/time/format/DateTimeFormatter.java": [703, 704]}}
+,"22": {"7": {"org/joda/time/format/DateTimeFormatter.java": [702, 703]}}
+,"23": {"7": {"org/joda/time/format/DateTimeFormatter.java": [702, 703]}}
+,"24": {"7": {"org/joda/time/format/DateTimeFormatter.java": [702, 703]}}
+,"25": {"7": {"org/joda/time/format/DateTimeFormatter.java": [702, 703]}}
+,"26": {"7": {"org/joda/time/format/DateTimeFormatter.java": [702, 703]}}
+,"27": {"7": {"org/joda/time/format/DateTimeFormatter.java": [702, 703]}}
 }
 ,
 {
-"bug": {"8":{"org/joda/time/DateTimeZone.java":[279, 282, 286]}}
-,"9": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"10": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"11": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"12": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"13": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"14": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"15": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"16": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"17": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"18": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"19": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"20": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"21": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"22": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"23": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"24": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"25": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"26": {"8":{"org/joda/time/DateTimeZone.java":[257, 260, 264]}}
-,"27": {"8":{"org/joda/time/DateTimeZone.java":[254, 257, 261]}}
+"bug": {"8": {"org/joda/time/DateTimeZone.java": [279, 282, 286]}}
+,"9": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"10": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"11": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"12": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"13": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"14": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"15": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"16": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"17": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"18": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"19": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"20": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"21": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"22": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"23": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"24": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"25": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"26": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
+,"27": {"8": {"org/joda/time/DateTimeZone.java": [275]}}
 }
 ,
 {
-"bug": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"10": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"11": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"12": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"13": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"14": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"15": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"16": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"17": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"18": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"19": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"20": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"21": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"22": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"23": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"24": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"25": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"26": {"9":{"org/joda/time/DateTimeZone.java":[258, 263, 265, 267, 283]}}
-,"27": {"9":{"org/joda/time/DateTimeZone.java":[255, 260, 262, 264, 280]}}
+"bug": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"10": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"11": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"12": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"13": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"14": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"15": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"16": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"17": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"18": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"19": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"20": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"21": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"22": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"23": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"24": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"25": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"26": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
+,"27": {"9": {"org/joda/time/DateTimeZone.java": [258, 263, 265, 267, 283]}}
 }
 ,
 {
-"bug": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[104]}}
-,"11": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"12": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"13": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"14": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"15": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"16": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"17": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"18": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"19": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"20": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"21": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"22": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"23": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"24": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"25": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"26": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
-,"27": {"10":{"org/joda/time/base/BaseSingleFieldPeriod.java":[103]}}
+"bug": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"11": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"12": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"13": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"14": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"15": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"16": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"17": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"18": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"19": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"20": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"21": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"22": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"23": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"24": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"25": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"26": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
+,"27": {"10": {"org/joda/time/base/BaseSingleFieldPeriod.java": [104]}}
 }
 ,
 {
-"bug": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"12": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"13": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"14": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"15": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"16": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"17": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"18": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"19": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"20": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"21": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"22": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"23": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"24": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"25": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"26": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
-,"27": {"11":{"org/joda/time/tz/ZoneInfoCompiler.java":[68, 69, 70, 71]}}
+"bug": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"12": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"13": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"14": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"15": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"16": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"17": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"18": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"19": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"20": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"21": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"22": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"23": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"24": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"25": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"26": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
+,"27": {"11": {"org/joda/time/tz/ZoneInfoCompiler.java": [68, 69, 70, 71]}}
 }
 ,
 {
-"bug": {"12":{"org/joda/time/LocalDate.java":[210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java":[199, 200, 201, 236, 237]}}
-,"13": {"12":{"org/joda/time/LocalDate.java":[209, 209, 210, 241, 241], "org/joda/time/LocalDateTime.java":[198, 198, 199, 234, 234]}}
-,"14": {"12":{"org/joda/time/LocalDate.java":[209, 209, 210, 241, 241], "org/joda/time/LocalDateTime.java":[198, 198, 199, 234, 234]}}
-,"15": {"12":{"org/joda/time/LocalDate.java":[209, 209, 210, 241, 241], "org/joda/time/LocalDateTime.java":[198, 198, 199, 234, 234]}}
-,"16": {"12":{"org/joda/time/LocalDate.java":[209, 209, 210, 241, 241], "org/joda/time/LocalDateTime.java":[198, 198, 199, 234, 234]}}
-,"17": {"12":{"org/joda/time/LocalDate.java":[209, 209, 210, 241, 241], "org/joda/time/LocalDateTime.java":[198, 198, 199, 234, 234]}}
-,"18": {"12":{"org/joda/time/LocalDate.java":[209, 209, 210, 241, 241], "org/joda/time/LocalDateTime.java":[198, 198, 199, 234, 234]}}
-,"19": {"12":{"org/joda/time/LocalDate.java":[209, 209, 210, 241, 241], "org/joda/time/LocalDateTime.java":[198, 198, 199, 234, 234]}}
-,"20": {"12":{"org/joda/time/LocalDate.java":[209, 209, 210, 241, 241], "org/joda/time/LocalDateTime.java":[198, 198, 199, 234, 234]}}
-,"21": {"12":{"org/joda/time/LocalDate.java":[209, 209, 210, 241, 241], "org/joda/time/LocalDateTime.java":[198, 198, 199, 234, 234]}}
-,"22": {"12":{"org/joda/time/LocalDate.java":[167, 167, 168, 199, 199], "org/joda/time/LocalDateTime.java":[153, 153, 154, 189, 189]}}
-,"23": {"12":{"org/joda/time/LocalDate.java":[167, 167, 168, 199, 199], "org/joda/time/LocalDateTime.java":[153, 153, 154, 189, 189]}}
-,"24": {"12":{"org/joda/time/LocalDate.java":[167, 167, 168, 199, 199], "org/joda/time/LocalDateTime.java":[153, 153, 154, 189, 189]}}
-,"25": {"12":{"org/joda/time/LocalDate.java":[167, 167, 168, 199, 199], "org/joda/time/LocalDateTime.java":[153, 153, 154, 189, 189]}}
-,"26": {"12":{"org/joda/time/LocalDate.java":[167, 167, 168, 199, 199], "org/joda/time/LocalDateTime.java":[153, 153, 154, 189, 189]}}
-,"27": {"12":{"org/joda/time/LocalDate.java":[139, 139, 140, 171, 171], "org/joda/time/LocalDateTime.java":[125, 125, 126, 161, 161]}}
+"bug": {"12": {"org/joda/time/LocalDate.java": [210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java": [199, 200, 201, 236, 237]}}
+,"13": {"12": {"org/joda/time/LocalDate.java": [210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java": [199, 200, 201, 236, 237]}}
+,"14": {"12": {"org/joda/time/LocalDate.java": [210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java": [199, 200, 201, 236, 237]}}
+,"15": {"12": {"org/joda/time/LocalDate.java": [210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java": [199, 200, 201, 236, 237]}}
+,"16": {"12": {"org/joda/time/LocalDate.java": [210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java": [199, 200, 201, 236, 237]}}
+,"17": {"12": {"org/joda/time/LocalDate.java": [210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java": [199, 200, 201, 236, 237]}}
+,"18": {"12": {"org/joda/time/LocalDate.java": [210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java": [199, 200, 201, 236, 237]}}
+,"19": {"12": {"org/joda/time/LocalDate.java": [210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java": [199, 200, 201, 236, 237]}}
+,"20": {"12": {"org/joda/time/LocalDate.java": [210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java": [199, 200, 201, 236, 237]}}
+,"21": {"12": {"org/joda/time/LocalDate.java": [210, 211, 212, 243, 244], "org/joda/time/LocalDateTime.java": [199, 200, 201, 236, 237]}}
+,"22": {"12": {"org/joda/time/LocalDate.java": [168, 169, 170, 201, 202], "org/joda/time/LocalDateTime.java": [154, 155, 156, 191, 192]}}
+,"23": {"12": {"org/joda/time/LocalDate.java": [168, 169, 170, 201, 202], "org/joda/time/LocalDateTime.java": [154, 155, 156, 191, 192]}}
+,"24": {"12": {"org/joda/time/LocalDate.java": [168, 169, 170, 201, 202], "org/joda/time/LocalDateTime.java": [154, 155, 156, 191, 192]}}
+,"25": {"12": {"org/joda/time/LocalDate.java": [168, 169, 170, 201, 202], "org/joda/time/LocalDateTime.java": [154, 155, 156, 191, 192]}}
+,"26": {"12": {"org/joda/time/LocalDate.java": [168, 169, 170, 201, 202], "org/joda/time/LocalDateTime.java": [154, 155, 156, 191, 192]}}
+,"27": {"12": {"org/joda/time/LocalDate.java": [168, 169, 170, 201, 202], "org/joda/time/LocalDateTime.java": [154, 155, 156, 191, 192]}}
 }
 ,
 {
-"bug": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"14": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"15": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"16": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"17": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"18": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"19": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"20": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"21": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"22": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"23": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"24": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"25": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"26": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1098, 1133, 1134, 1139, 1142]}}
-,"27": {"13":{"org/joda/time/format/PeriodFormatterBuilder.java":[1096, 1131, 1132, 1137, 1140]}}
+"bug": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"14": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"15": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"16": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"17": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"18": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"19": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"20": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"21": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"22": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"23": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"24": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"25": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"26": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
+,"27": {"13": {"org/joda/time/format/PeriodFormatterBuilder.java": [1098, 1133, 1134, 1139, 1142]}}
 }
 ,
 {
-"bug": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 210]}}
-,"15": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"16": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"17": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"18": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"19": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"20": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"21": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"22": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"23": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"24": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"25": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"26": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
-,"27": {"14":{"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java":[209, 209]}}
+"bug": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"15": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"16": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"17": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"18": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"19": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"20": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"21": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"22": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"23": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"24": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"25": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"26": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
+,"27": {"14": {"org/joda/time/chrono/BasicMonthOfYearDateTimeField.java": [209, 210]}}
 }
 ,
 {
-"bug": {"15":{"org/joda/time/field/FieldUtils.java":[138]}}
-,"16": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"17": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"18": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"19": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"20": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"21": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"22": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"23": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"24": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"25": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"26": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
-,"27": {"15":{"org/joda/time/field/FieldUtils.java":[139]}}
+"bug": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"16": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"17": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"18": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"19": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"20": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"21": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"22": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"23": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"24": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"25": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"26": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
+,"27": {"15": {"org/joda/time/field/FieldUtils.java": [138]}}
 }
 ,
 {
-"bug": {"16":{"org/joda/time/format/DateTimeFormatter.java":[709]}}
-,"17": {"16":{"org/joda/time/format/DateTimeFormatter.java":[705]}}
-,"18": {"16":{"org/joda/time/format/DateTimeFormatter.java":[705]}}
-,"19": {"16":{"org/joda/time/format/DateTimeFormatter.java":[705]}}
-,"20": {"16":{"org/joda/time/format/DateTimeFormatter.java":[705]}}
-,"21": {"16":{"org/joda/time/format/DateTimeFormatter.java":[705]}}
-,"22": {"16":{"org/joda/time/format/DateTimeFormatter.java":[704]}}
-,"23": {"16":{"org/joda/time/format/DateTimeFormatter.java":[704]}}
-,"24": {"16":{"org/joda/time/format/DateTimeFormatter.java":[704]}}
-,"25": {"16":{"org/joda/time/format/DateTimeFormatter.java":[704]}}
-,"26": {"16":{"org/joda/time/format/DateTimeFormatter.java":[704]}}
-,"27": {"16":{"org/joda/time/format/DateTimeFormatter.java":[666]}}
+"bug": {"16": {"org/joda/time/format/DateTimeFormatter.java": [709]}}
+,"17": {"16": {"org/joda/time/format/DateTimeFormatter.java": [709]}}
+,"18": {"16": {"org/joda/time/format/DateTimeFormatter.java": [709]}}
+,"19": {"16": {"org/joda/time/format/DateTimeFormatter.java": [709]}}
+,"20": {"16": {"org/joda/time/format/DateTimeFormatter.java": [709]}}
+,"21": {"16": {"org/joda/time/format/DateTimeFormatter.java": [709]}}
+,"1ec3c2f0962d41db0d83e01ac5df26d7b954aa34": "failed"
 }
 ,
 {
-"bug": {"17":{"org/joda/time/DateTimeZone.java":[1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
-,"18": {"17":{"org/joda/time/DateTimeZone.java":[1167, 1168, 1169, 1169, 1170, 1171, 1172, 1173, 1174, 1171]}}
-,"19": {"17":{"org/joda/time/DateTimeZone.java":[1167, 1168, 1169, 1169, 1170, 1171, 1172, 1173, 1174, 1171]}}
-,"20": {"17":{"org/joda/time/DateTimeZone.java":[1167, 1168, 1169, 1169, 1170, 1171, 1172, 1173, 1174, 1171]}}
-,"21": {"17":{"org/joda/time/DateTimeZone.java":[1167, 1168, 1169, 1169, 1170, 1171, 1172, 1173, 1174, 1171]}}
-,"22": {"17":{"org/joda/time/DateTimeZone.java":[1167, 1168, 1169, 1169, 1170, 1171, 1172, 1173, 1174, 1171]}}
-,"23": {"17":{"org/joda/time/DateTimeZone.java":[1166, 1167, 1168, 1168, 1169, 1170, 1171, 1172, 1173, 1170]}}
-,"24": {"17":{"org/joda/time/DateTimeZone.java":[1155, 1156, 1153]}}
-,"25": {"17":{"org/joda/time/DateTimeZone.java":[1142, 1143, 1140]}}
-,"26": {"17":{"org/joda/time/DateTimeZone.java":[1115, 1116, 1113]}}
-,"27": {"17":{"org/joda/time/DateTimeZone.java":[1111, 1112, 1109]}}
+"bug": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
+,"18": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
+,"19": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
+,"20": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
+,"21": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
+,"22": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
+,"23": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
+,"24": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
+,"25": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
+,"26": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
+,"27": {"17": {"org/joda/time/DateTimeZone.java": [1167, 1168, 1169, 1174, 1175, 1176, 1177, 1178, 1179, 1180]}}
 }
 ,
 {
-"bug": {"18":{"org/joda/time/chrono/GJChronology.java":[364, 367]}}
-,"19": {"18":{"org/joda/time/chrono/GJChronology.java":[364, 366]}}
-,"20": {"18":{"org/joda/time/chrono/GJChronology.java":[364, 366]}}
-,"21": {"18":{"org/joda/time/chrono/GJChronology.java":[364, 366]}}
-,"22": {"18":{"org/joda/time/chrono/GJChronology.java":[364, 366]}}
-,"23": {"18":{"org/joda/time/chrono/GJChronology.java":[364, 366]}}
-,"24": {"18":{"org/joda/time/chrono/GJChronology.java":[364, 366]}}
-,"25": {"18":{"org/joda/time/chrono/GJChronology.java":[364, 366]}}
-,"26": {"18":{"org/joda/time/chrono/GJChronology.java":[364, 366]}}
-,"27": {"18":{"org/joda/time/chrono/GJChronology.java":[364, 366]}}
+"bug": {"18": {"org/joda/time/chrono/GJChronology.java": [364, 367]}}
+,"19": {"18": {"org/joda/time/chrono/GJChronology.java": [364, 367]}}
+,"20": {"18": {"org/joda/time/chrono/GJChronology.java": [364, 367]}}
+,"21": {"18": {"org/joda/time/chrono/GJChronology.java": [364, 367]}}
+,"22": {"18": {"org/joda/time/chrono/GJChronology.java": [364, 367]}}
+,"23": {"18": {"org/joda/time/chrono/GJChronology.java": [364, 367]}}
+,"24": {"18": {"org/joda/time/chrono/GJChronology.java": [364, 367]}}
+,"25": {"18": {"org/joda/time/chrono/GJChronology.java": [364, 367]}}
+,"26": {"18": {"org/joda/time/chrono/GJChronology.java": [364, 367]}}
+,"27": {"18": {"org/joda/time/chrono/GJChronology.java": [364, 367]}}
 }
 ,
 {
-"bug": {"19":{"org/joda/time/DateTimeZone.java":[900]}}
-,"20": {"19":{"org/joda/time/DateTimeZone.java":[900]}}
-,"21": {"19":{"org/joda/time/DateTimeZone.java":[900]}}
-,"22": {"19":{"org/joda/time/DateTimeZone.java":[900]}}
-,"23": {"19":{"org/joda/time/DateTimeZone.java":[899]}}
-,"24": {"19":{"org/joda/time/DateTimeZone.java":[899]}}
-,"25": {"19":{"org/joda/time/DateTimeZone.java":[895]}}
-,"26": {"19":{"org/joda/time/DateTimeZone.java":[895]}}
-,"27": {"19":{"org/joda/time/DateTimeZone.java":[891]}}
+"bug": {"19": {"org/joda/time/DateTimeZone.java": [900]}}
+,"20": {"19": {"org/joda/time/DateTimeZone.java": [900]}}
+,"21": {"19": {"org/joda/time/DateTimeZone.java": [900]}}
+,"22": {"19": {"org/joda/time/DateTimeZone.java": [900]}}
+,"23": {"19": {"org/joda/time/DateTimeZone.java": [900]}}
+,"24": {"19": {"org/joda/time/DateTimeZone.java": [900]}}
+,"25": {"19": {"org/joda/time/DateTimeZone.java": [900]}}
+,"26": {"19": {"org/joda/time/DateTimeZone.java": [900]}}
+,"27": {"19": {"org/joda/time/DateTimeZone.java": [900]}}
 }
 ,
 {
-"bug": {"20":{"org/joda/time/format/DateTimeFormatterBuilder.java":[2541, 2542, 2544, 2545, 2546, 2548]}}
-,"21": {"20":{"org/joda/time/format/DateTimeFormatterBuilder.java":[2541, 2542, 2544, 2545, 2546, 2548]}}
-,"22": {"20":{"org/joda/time/format/DateTimeFormatterBuilder.java":[2501, 2503, 2505]}}
-,"23": {"20":{"org/joda/time/format/DateTimeFormatterBuilder.java":[2501, 2503, 2505]}}
-,"24": {"20":{"org/joda/time/format/DateTimeFormatterBuilder.java":[2501, 2503, 2505]}}
-,"25": {"20":{"org/joda/time/format/DateTimeFormatterBuilder.java":[2501, 2503, 2505]}}
-,"26": {"20":{"org/joda/time/format/DateTimeFormatterBuilder.java":[2501, 2503, 2505]}}
-,"27": {"20":{"org/joda/time/format/DateTimeFormatterBuilder.java":[2501, 2503, 2505]}}
+"bug": {"20": {"org/joda/time/format/DateTimeFormatterBuilder.java": [2541, 2542, 2544, 2545, 2546, 2548]}}
+,"21": {"20": {"org/joda/time/format/DateTimeFormatterBuilder.java": [2541, 2542, 2544, 2545, 2546, 2548]}}
+,"53eadfbd0ec9d6b4a02dae38730b77b14000c1f3": "failed"
 }
 ,
 {
-"bug": {"21":{"org/joda/time/tz/DefaultNameProvider.java":[65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
-,"22": {"21":{"org/joda/time/tz/DefaultNameProvider.java":[65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
-,"23": {"21":{"org/joda/time/tz/DefaultNameProvider.java":[65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
-,"24": {"21":{"org/joda/time/tz/DefaultNameProvider.java":[65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
-,"25": {"21":{"org/joda/time/tz/DefaultNameProvider.java":[65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
-,"26": {"21":{"org/joda/time/tz/DefaultNameProvider.java":[65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
-,"27": {"21":{"org/joda/time/tz/DefaultNameProvider.java":[65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
+"bug": {"21": {"org/joda/time/tz/DefaultNameProvider.java": [65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
+,"22": {"21": {"org/joda/time/tz/DefaultNameProvider.java": [65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
+,"23": {"21": {"org/joda/time/tz/DefaultNameProvider.java": [65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
+,"24": {"21": {"org/joda/time/tz/DefaultNameProvider.java": [65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
+,"25": {"21": {"org/joda/time/tz/DefaultNameProvider.java": [65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
+,"26": {"21": {"org/joda/time/tz/DefaultNameProvider.java": [65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
+,"27": {"21": {"org/joda/time/tz/DefaultNameProvider.java": [65, 66, 71, 72, 76, 77, 79, 81, 82, 83, 84]}}
 }
 ,
 {
-"bug": {"22":{"org/joda/time/base/BasePeriod.java":[222, 223, 224]}}
-,"23": {"22":{"org/joda/time/base/BasePeriod.java":[222, 223, 229]}}
-,"24": {"22":{"org/joda/time/base/BasePeriod.java":[222, 223, 229]}}
-,"25": {"22":{"org/joda/time/base/BasePeriod.java":[222, 223, 229]}}
-,"26": {"22":{"org/joda/time/base/BasePeriod.java":[222, 223, 229]}}
-,"27": {"22":{"org/joda/time/base/BasePeriod.java":[222, 223, 229]}}
+"bug": {"22": {"org/joda/time/base/BasePeriod.java": [222, 223, 224]}}
+,"23": {"22": {"org/joda/time/base/BasePeriod.java": [222, 223, 224]}}
+,"24": {"22": {"org/joda/time/base/BasePeriod.java": [222, 223, 224]}}
+,"25": {"22": {"org/joda/time/base/BasePeriod.java": [222, 223, 224]}}
+,"26": {"22": {"org/joda/time/base/BasePeriod.java": [222, 223, 224]}}
+,"27": {"22": {"org/joda/time/base/BasePeriod.java": [222, 223, 224]}}
 }
 ,
 {
-"bug": {"23":{"org/joda/time/DateTimeZone.java":[563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595]}}
-,"24": {"23":{"org/joda/time/DateTimeZone.java":[563, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 582, 583, 584, 584, 585, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596]}}
-,"25": {"23":{"org/joda/time/DateTimeZone.java":[563, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 582, 583, 584, 584, 585, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596]}}
-,"26": {"23":{"org/joda/time/DateTimeZone.java":[563, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 582, 583, 584, 584, 585, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596]}}
-,"27": {"23":{"org/joda/time/DateTimeZone.java":[560, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 579, 580, 581, 581, 582, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593]}}
+"bug": {"23": {"org/joda/time/DateTimeZone.java": [563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595]}}
+,"24": {"23": {"org/joda/time/DateTimeZone.java": [563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595]}}
+,"25": {"23": {"org/joda/time/DateTimeZone.java": [563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595]}}
+,"26": {"23": {"org/joda/time/DateTimeZone.java": [563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595]}}
+,"27": {"23": {"org/joda/time/DateTimeZone.java": [563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595]}}
 }
 ,
 {
-"bug": {"24":{"org/joda/time/format/DateTimeParserBucket.java":[355]}}
-,"25": {"24":{"org/joda/time/format/DateTimeParserBucket.java":[360]}}
-,"26": {"24":{"org/joda/time/format/DateTimeParserBucket.java":[360]}}
-,"27": {"24":{"org/joda/time/format/DateTimeParserBucket.java":[323]}}
+"bug": {"24": {"org/joda/time/format/DateTimeParserBucket.java": [355]}}
+,"25": {"24": {"org/joda/time/format/DateTimeParserBucket.java": [355]}}
+,"26": {"24": {"org/joda/time/format/DateTimeParserBucket.java": [355]}}
+,"27": {"24": {"org/joda/time/format/DateTimeParserBucket.java": [355]}}
 }
 ,
 {
-"bug": {"25":{"org/joda/time/DateTimeZone.java":[900]}}
-,"26": {"25":{"org/joda/time/DateTimeZone.java":[909]}}
-,"27": {"25":{"org/joda/time/DateTimeZone.java":[905]}}
+"bug": {"25": {"org/joda/time/DateTimeZone.java": [900]}}
+,"26": {"25": {"org/joda/time/DateTimeZone.java": [900]}}
+,"27": {"25": {"org/joda/time/DateTimeZone.java": [900]}}
 }
 ,
 {
-"bug": {"26":{"org/joda/time/chrono/ZonedChronology.java":[436, 448, 460, 467, 481, 528, 540]}}
-,"27": {"26":{"org/joda/time/chrono/ZonedChronology.java":[436, 448, 460, 467, 481, 528, 540]}}
+"bug": {"26": {"org/joda/time/chrono/ZonedChronology.java": [436, 448, 460, 467, 481, 528, 540]}}
+,"27": {"26": {"org/joda/time/chrono/ZonedChronology.java": [436, 448, 460, 467, 481, 528, 540]}}
 }
 ,
 {
-"bug": {"27":{"org/joda/time/format/PeriodFormatterBuilder.java":[801, 804]}}
+"bug": {"27": {"org/joda/time/format/PeriodFormatterBuilder.java": [801, 804]}}
 }
 ]
