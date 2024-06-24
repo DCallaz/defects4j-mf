@@ -41,6 +41,9 @@ elif [ -d "$d4j_dir" ]; then
   git restore framework &> /dev/null
   git clean -dfx framework &> /dev/null
 fi
+if ! command -v defects4j; then
+  export PATH=$PATH:"$home"/defects4j/framework/bin
+fi
 export D4J_HOME="$d4j_dir"
 cd "$d4j_dir"
 git apply "$home"/defects4j_multi_with_jars.patch
