@@ -14,13 +14,14 @@ done
 shift $((OPTIND -1))
 home="$(dirname $0)"
 home="$(readlink -f "$(echo ${home/"~"/~})")"
-echo "${green}defects4j-mf has been successfully installed!${reset}"
-echo "Please add the following lines to your bashrc (or equivalent)"
-echo "${yellow}export D4J_HOME=\"$d4j_dir\""
-echo "export PATH=\"\$PATH:\$D4J_HOME\"${reset}"
-exit 1
+d4j_dir="$1"
 if [ $# -lt 1 ]; then
-  echo "Defects4J directory not given, installing locally..."
+  d4j_dir="$home/defects4j"
+else
+  d4j_dir="$1"
+fi
+if [ ! -d "$d4j_dir" ]; then
+  echo "Defects4J directory does not exist, installing locally..."
   git clone https://github.com/rjust/defects4j.git
   cd defects4j
   cpanm --installdeps .
@@ -33,9 +34,14 @@ if [ $# -lt 1 ]; then
     echo "ERROR: Defects4J could not be installed, please install manually."
     exit 1
   fi
-else
-  d4j_dir="$1"
+elif [ -d "$d4j_dir" ]; then
+  echo "Defects4J exists, resetting..."
+  cd "$d4j_dir"
+  git reset framework &> /dev/null
+  git restore framework &> /dev/null
+  git clean -dfx framework &> /dev/null
 fi
+export D4J_HOME="$d4j_dir"
 cd "$d4j_dir"
 git apply "$home"/defects4j_multi_with_jars.patch
 defects4j_multi -h &> /dev/null
