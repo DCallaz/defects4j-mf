@@ -40,6 +40,7 @@ elif [ -d "$d4j_dir" ]; then
   git reset framework &> /dev/null
   git restore framework &> /dev/null
   git clean -dfx framework &> /dev/null
+  ./init.sh
 fi
 if ! command -v defects4j &> /dev/null; then
   export PATH=$PATH:"$home"/defects4j/framework/bin
