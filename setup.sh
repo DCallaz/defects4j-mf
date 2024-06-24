@@ -41,7 +41,7 @@ elif [ -d "$d4j_dir" ]; then
   git restore framework &> /dev/null
   git clean -dfx framework &> /dev/null
 fi
-if ! command -v defects4j; then
+if ! command -v defects4j &> /dev/null; then
   export PATH=$PATH:"$home"/defects4j/framework/bin
 fi
 export D4J_HOME="$d4j_dir"
@@ -58,4 +58,4 @@ defects4j_multi configure -f "$home/fault_data"
 echo "${green}defects4j-mf has been successfully installed!${reset}"
 echo "Please run the following commands or add them to your bashrc (or equivalent):"
 echo "${yellow}export D4J_HOME=\"$d4j_dir\""
-echo "export PATH=\"\$PATH:\$D4J_HOME\"${reset}"
+echo "export PATH=\"\$PATH:\$D4J_HOME/framework/bin\"${reset}"
