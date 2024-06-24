@@ -1,4 +1,7 @@
 #!/bin/bash
+green=`tput setaf 2`
+yellow=`tput setaf 3`
+reset=`tput sgr0`
 USAGE="USAGE: ./setup.sh [-h] [<defects4j dir>]"
 while getopts ":h" opt; do
   case ${opt} in
@@ -11,6 +14,11 @@ done
 shift $((OPTIND -1))
 home="$(dirname $0)"
 home="$(readlink -f "$(echo ${home/"~"/~})")"
+echo "${green}defects4j-mf has been successfully installed!${reset}"
+echo "Please add the following lines to your bashrc (or equivalent)"
+echo "${yellow}export D4J_HOME=\"$d4j_dir\""
+echo "export PATH=\"\$PATH:\$D4J_HOME\"${reset}"
+exit 1
 if [ $# -lt 1 ]; then
   echo "Defects4J directory not given, installing locally..."
   git clone https://github.com/rjust/defects4j.git
@@ -38,3 +46,7 @@ fi
 cd "$home/fault_data"
 tar -xjf multi.tar.bz2
 defects4j_multi configure -f "$home/fault_data"
+echo "${green}defects4j-mf has been successfully installed!${reset}"
+echo "Please run the following commands or add them to your bashrc (or equivalent):"
+echo "${yellow}export D4J_HOME=\"$d4j_dir\""
+echo "export PATH=\"\$PATH:\$D4J_HOME\"${reset}"
