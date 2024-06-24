@@ -18,23 +18,23 @@ if [ $# -lt 1 ]; then
   cpanm --installdeps .
   ./init.sh
   export PATH=$PATH:"$home"/defects4j/framework/bin
+  d4j_dir="$home/defects4j"
   # check d4j installation
-  defects4j info -p Lang &> /dev/null
+  $d4j_dir/framework/bin/defects4j info -p Lang &> /dev/null
   if [ $? -ne 0 ]; then
     echo "ERROR: Defects4J could not be installed, please install manually."
     exit 1
   fi
-  d4j_dir="$home/defects4j"
 else
   d4j_dir="$1"
 fi
 cd "$d4j_dir"
 git apply "$home"/defects4j_multi_with_jars.patch
-defects4j_multi -h &> /dev/null
+$d4j_dir/framework/bin/defects4j_multi -h &> /dev/null
 if [ $? -ne 0 ]; then
   echo "ERROR: Could not set up defects4j-mf properly, exiting..."
   exit 1
 fi
 cd "$home/fault_data"
 tar -xjf multi.tar.bz2
-defects4j_multi configure -f "$home/fault_data"
+$d4j_dir/framework/bin/defects4j_multi configure -f "$home/fault_data"
