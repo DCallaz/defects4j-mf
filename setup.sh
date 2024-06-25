@@ -14,11 +14,11 @@ done
 shift $((OPTIND -1))
 home="$(dirname $0)"
 home="$(readlink -f "$(echo ${home/"~"/~})")"
-d4j_dir="$1"
 if [ $# -lt 1 ]; then
   d4j_dir="$home/defects4j"
 else
   d4j_dir="$1"
+  d4j_dir="$(readlink -f "$(echo ${d4j_dir/"~"/~})")"
 fi
 if [ ! -d "$d4j_dir" ]; then
   echo "Defects4J directory does not exist, installing locally..."
@@ -42,10 +42,10 @@ elif [ -d "$d4j_dir" ]; then
   git clean -dfx framework &> /dev/null
   ./init.sh
 fi
-if ! command -v defects4j &> /dev/null; then
-  export PATH=$PATH:"$home"/defects4j/framework/bin
-fi
 export D4J_HOME="$d4j_dir"
+if ! command -v defects4j &> /dev/null; then
+  export PATH="$PATH:$d4j_dir/framework/bin"
+fi
 cd "$d4j_dir"
 git apply "$home"/defects4j_multi_with_jars.patch
 defects4j_multi -h &> /dev/null
