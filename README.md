@@ -45,3 +45,58 @@ After this, the `fault_data` directory must be set up by extracting
 defects4j_multi configure -f /path/to/defects4j_multifault/fault_data
 ```
 which sets the default `fault_data` directory for the `defects4j_multi` script.
+
+## Usage
+The following commands are available by using `defects4j_multi <command>` for use
+within the dataset:
+
+| Command        | Description                                                   |
+| -------------- | --------------------------------------------------------------|
+| checkout       | Checkout a multi-fault version project from the dataset       |
+| compile        | Compile sources and developer-written tests of a project version (identical to `defects4j compile` below) |
+| coverage       | Run Gzoltar code coverage analysis on a given project version to produce a coverage spectrum |
+| identify       | Add fault locations to collected coverage files               |
+
+In addition, the following original Defects4J commands are accessible by running
+`defects4j <command>`:
+
+| Command      | Description                                                                    |
+| ------------ | -------------------------------------------------------------------------------|
+| info         | View configuration of a specific project or summary of a specific bug          |
+| env          | Print the environment of defects4j executions                                  |
+| checkout     | Checkout a buggy or a fixed project version                                    |
+| compile      | Compile sources and developer-written tests of a buggy or a fixed project version |
+| test         | Run a single test method or a test suite on a buggy or a fixed project version |
+| mutation     | Run mutation analysis on a buggy or a fixed project version                    |
+| monitor.test | Monitor the class loader during the execution of a single test or a test suite |
+| bids                   | Print the list of active or deprecated bug IDs for a specific project                                           |
+| pids         | Print a list of available project IDs                                          |
+| export       | Export version-specific properties such as classpaths, directories, or lists of tests |
+| query        | Query the metadata to generate a CSV file of requested information for a specific project |
+
+## Usage example
+A common use case for the Defects4J multi-fault dataset is for use in evaluation
+for debugging techniques. In order to achieve this, the following process can be
+done:
+1. Checkout a particular project version:
+  ```
+  defects4j_multi checkout -p Math -v 4 -w $PWD/Math-4
+  ```
+2. Change to the checked out directory:
+  ```
+  cd Math-4/
+  ```
+3. Compile the project
+  ```
+  defects4j_multi compile
+  ```
+4. Collect coverage for the version
+  ```
+  defects4j_multi coverage
+  ```
+5. Mark each of the identified faults in the TCM
+  ```
+  defects4j_mutli identify
+  ```
+  The collected Gzoltar coverage results for this version (including identified
+  faults) will then be available in the directory `sfl/txt`.

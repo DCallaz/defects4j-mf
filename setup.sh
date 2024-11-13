@@ -24,6 +24,7 @@ if [ ! -d "$d4j_dir" ]; then
   echo "Defects4J directory does not exist, installing locally..."
   git clone https://github.com/rjust/defects4j.git
   cd defects4j
+  git checkout db899aee2347b16fd042e7e62dacac64eba98cae
   cpanm --installdeps .
   ./init.sh
   export PATH=$PATH:"$home"/defects4j/framework/bin
@@ -40,6 +41,7 @@ elif [ -d "$d4j_dir" ]; then
   git reset framework &> /dev/null
   git restore framework &> /dev/null
   git clean -dfx framework &> /dev/null
+  git checkout db899aee2347b16fd042e7e62dacac64eba98cae
   ./init.sh
 fi
 export D4J_HOME="$d4j_dir"
