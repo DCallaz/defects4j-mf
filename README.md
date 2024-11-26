@@ -51,6 +51,7 @@ within the dataset:
 
 | Command        | Description                                                   |
 | -------------- | --------------------------------------------------------------|
+| info           | View multi-fault related info on a particular project or version |
 | checkout       | Checkout a multi-fault version project from the dataset       |
 | compile        | Compile sources and developer-written tests of a project version (identical to `defects4j compile` below) |
 | coverage       | Run Gzoltar code coverage analysis on a given project version to produce a coverage spectrum |
