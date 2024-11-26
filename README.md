@@ -4,8 +4,7 @@ This repository includes all the necessary scripts and files needed to create a
 multi-fault dataset from the original [Defects4J](https://github.com/rjust/defects4j)
 single-fault dataset. It does so by adding in the test transplantation done by
 [An et.  al.](https://github.com/coinse/Defects4J-multifault), and the bug
-identification Done by [Dylan Callaghan and Bernd
-Fischer](https://github.com/DCallaz/bug-backtracker).
+identification done by [Dylan Callaghan](https://github.com/DCallaz/bug-backtracker).
 ## Setup
 To set up the dataset for usage, simply run the setup script as:
 ```
@@ -68,8 +67,9 @@ In addition, the following original Defects4J commands are accessible by running
 | compile      | Compile sources and developer-written tests of a buggy or a fixed project version |
 | test         | Run a single test method or a test suite on a buggy or a fixed project version |
 | mutation     | Run mutation analysis on a buggy or a fixed project version                    |
+| coverage     | Run (original defects4J) code coverage analysis on a buggy or a fixed project version |
 | monitor.test | Monitor the class loader during the execution of a single test or a test suite |
-| bids                   | Print the list of active or deprecated bug IDs for a specific project                                           |
+| bids         | Print the list of active or deprecated bug IDs for a specific project          |
 | pids         | Print a list of available project IDs                                          |
 | export       | Export version-specific properties such as classpaths, directories, or lists of tests |
 | query        | Query the metadata to generate a CSV file of requested information for a specific project |
@@ -86,6 +86,11 @@ done:
   ```
   cd Math-4/
   ```
+  At this point, you can find the fault locations for faults 1, 2, 3 and 4 in
+  the files `bug.locations.x`, where `x` is the fault number (i.e.
+  `bug.locations.1`). You can also find the exposing tests for each fault in the
+  files `tests.trigger.x` (i.e. `tests.trigger.1`).
+
 3. Compile the project
   ```
   defects4j_multi compile
@@ -96,7 +101,7 @@ done:
   ```
 5. Mark each of the identified faults in the TCM
   ```
-  defects4j_mutli identify
+  defects4j_multi identify
   ```
   The collected Gzoltar coverage results for this version (including identified
   faults) will then be available in the directory `sfl/txt`.
