@@ -10,6 +10,10 @@ identification done by [Dylan Callaghan](https://github.com/DCallaz/bug-backtrac
  * See [Defects4J requirements](https://github.com/rjust/defects4j/tree/d527ffd0d1040804abffcffe79250018859cd5e9?tab=readme-ov-file#requirements)
  * Python3 >= 3.6
 
+OR
+
+ * Docker (see [Docker setup](#docker))
+
 ### Automatic installation
 To set up the dataset for usage, simply run the setup script as:
 ```
