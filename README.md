@@ -45,6 +45,26 @@ defects4j_multi configure -f /path/to/defects4j_multifault/fault_data
 ```
 which sets the default `fault_data` directory for the `defects4j_multi` script.
 
+### Docker
+
+This dataset may alternatively be used from within a Docker container. To set up
+the dataset's Docker container, navigate to the docker directory:
+```bash
+cd docker/
+```
+and run the following (you may need to prefix each command with `sudo`):
+```bash
+# build the docker image
+docker build --tag d4j-mf .
+# create the docker container from the image
+docker run -dt --name d4j-mf d4j-mf:latest
+# execute an interactive bash shell for the container
+docker exec -it d4j-mf bash
+```
+
+The dataset repository should then be available at `/defects4j-mf/` inside the
+Docker container.
+
 ## Usage
 The following commands are available by using `defects4j_multi <command>` for use
 within the dataset:
