@@ -12,7 +12,8 @@ To set up the dataset for usage, simply run the setup script as:
 ```
 where `<defects4j directory>` is optional and is the directory where Defects4J
 is already installed.
-**Alternatively**, you may set up the dataset using the instructions below:
+**Alternatively**, you may set up the dataset from [within a Docker container](#docker),
+or manually using the instructions below:
 ### Manual Installation
 In order to setup this dataset manually, make sure you have the original
 [Defects4J](https://github.com/rjust/defects4j) dataset downloaded and set up.
