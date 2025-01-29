@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Callaghan"
+  given-names: "Dylan"
+  orcid: "https://orcid.org/0000-0003-4965-2643"
+title: "defects4j-mf"
+version: 1.0.0
+doi: 10.5281/zenodo.14234247
+date-released: 2024-11-28
+url: "https://github.com/DCallaz/defects4j-mf"
+type: dataset
