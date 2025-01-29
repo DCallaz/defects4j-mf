@@ -13,22 +13,23 @@ project=$1
 version=$2
 savedir=$3
 
-defects4j_multi checkout -v "$version" -w "/tmp/$version" &>/dev/null
+tmpdir="$(mktemp -du /tmp/"$project-$version".XXXXXX)"
+defects4j_multi checkout -p "$project" -v "$version" -w "$tmpdir" &>/dev/null
 #check if all bugs are findable
 #echo "${green}All bugs present, continuing...${reset}"
 #collect coverage
-cd "/tmp/$version"
+cd "$tmpdir"
 defects4j_multi coverage &> /dev/null
 #move coverage to exposed data
 mkdir -p "$savedir/$project/$version"
 cp sfl/txt/* "$savedir/$project/$version/"
 #inject faults into coverage
-output=$(defects4j_multi identify -v $version -c "$savedir/$project/$version/")
+output=$(defects4j_multi identify -p $project -v $version -c "$savedir/$project/$version/")
 if [ ! -z "$output" ]; then
   echo "${warn}$output${reset}"
 fi
 #echo "${green}$full succeeded${reset}"
-rm -r "/tmp/$version"
+rm -rf "$tmpdir"
 
 #if [ -f /tmp/tempout_$version ]; then
   #tempout=$(cat /tmp/tempout_$version)

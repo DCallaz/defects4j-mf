@@ -47,7 +47,8 @@ open_sem $N
 #done
 #echo "Done cloning"
 
-versions="$(python3 dump_versions.py $project)"
+versions="$(defects4j_multi info -p Lang | grep "^| [0-9]\+" |
+  sed -E 's/\|\s+([0-9]+).*$/\1/')"
 #versions="$(cat $project.vers)"
 for version in $versions; do
   if [ ! -d "$savedir/$project/$version" ]; then
