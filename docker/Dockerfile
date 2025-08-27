@@ -4,7 +4,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 SHELL ["/bin/bash", "-c"]
 
-RUN apt-get update && apt-get upgrade
+RUN apt-get update -y && apt-get upgrade -y
 
 RUN apt-get install -y git curl build-essential wget zip unzip vim subversion perl bc maven cpanminus
 
