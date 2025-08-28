@@ -1,0 +1,663 @@
+[
+{
+"bug": {"1":{"org/mockito/internal/invocation/InvocationMatcher.java":[123, 124, 125]}}
+,"837fd054a0da2c8706732dcd4bc880a64b957c78": "failed"
+}
+,
+{
+"bug": {"2":{"org/mockito/internal/util/Timer.java":[10]}}
+,"4": {"2":{"org/mockito/internal/util/Timer.java":[10]}}
+,"20": {"2":{"org/mockito/internal/util/Timer.java":[10]}}
+,"5": {"2":{"org/mockito/internal/util/Timer.java":[10]}}
+,"6": {"2":{"org/mockito/internal/util/Timer.java":[10]}}
+,"7": {"2":{"org/mockito/internal/util/Timer.java":[10]}}
+,"8": {"2":{"org/mockito/internal/util/Timer.java":[10]}}
+,"9": {"2":{"org/mockito/internal/util/Timer.java":[10]}}
+,"21": {"2":{"org/mockito/internal/util/Timer.java":[10]}}
+,"10": {"2":{"org/mockito/internal/util/Timer.java":[10]}}
+,"11": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"22": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"23": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"24": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"25": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"26": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"27": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"28": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"29": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"30": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"31": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"15": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"32": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"33": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"12": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"13": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"14": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"34": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"16": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"17": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"35": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"36": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"37": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+,"38": {"2":{"org/mockito/internal/verification/DurationCheckerImpl.java":[9]}}
+}
+,
+{
+"bug": {"3":{"org/mockito/internal/invocation/InvocationMatcher.java":[127, 128, 129, 130, 131, 132]}}
+,"4e9d7607825c3c668fd43f19507bfead566c528c": "failed"
+}
+,
+{
+"bug": {"4":{"org/mockito/exceptions/Reporter.java":[424, 434, 677]}}
+,"20": {"4":{"org/mockito/exceptions/Reporter.java":[424, 434, 677]}}
+,"5": {"4":{"org/mockito/exceptions/Reporter.java":[424, 434, 677]}}
+,"6": {"4":{"org/mockito/exceptions/Reporter.java":[424, 434, 677]}}
+,"7": {"4":{"org/mockito/exceptions/Reporter.java":[424, 434, 677]}}
+,"8": {"4":{"org/mockito/exceptions/Reporter.java":[424, 434, 677]}}
+,"9": {"4":{"org/mockito/exceptions/Reporter.java":[428, 438, 681]}}
+,"21": {"4":{"org/mockito/exceptions/Reporter.java":[428, 438, 681]}}
+,"10": {"4":{"org/mockito/exceptions/Reporter.java":[426, 436, 679]}}
+,"11": {"4":{"org/mockito/exceptions/Reporter.java":[430, 440, 681]}}
+,"22": {"4":{"org/mockito/exceptions/Reporter.java":[430, 681]}}
+,"23": {"4":{"org/mockito/exceptions/Reporter.java":[430, 681]}}
+,"24": {"4":{"org/mockito/exceptions/Reporter.java":[430, 681]}}
+,"25": {"4":{"org/mockito/exceptions/Reporter.java":[423, 674]}}
+,"26": {"4":{"org/mockito/exceptions/Reporter.java":[428, 679]}}
+,"27": {"4":{"org/mockito/exceptions/Reporter.java":[366, 617]}}
+,"28": {"4":{"org/mockito/exceptions/Reporter.java":[360, 556]}}
+,"29": {"4":{"org/mockito/exceptions/Reporter.java":[360, 556]}}
+,"30": {"4":{"org/mockito/exceptions/Reporter.java":[358, 554]}}
+,"31": {"4":{"org/mockito/exceptions/Reporter.java":[358, 554]}}
+,"15": {"4":{"org/mockito/exceptions/Reporter.java":[358, 554]}}
+,"32": {"4":{"org/mockito/exceptions/Reporter.java":[358, 543]}}
+,"33": {"4":{"org/mockito/exceptions/Reporter.java":[357, 537]}}
+,"12": {"4":{"org/mockito/exceptions/Reporter.java":[352, 531]}}
+,"13": {"4":{"org/mockito/exceptions/Reporter.java":[352, 531]}}
+,"14": {"4":{"org/mockito/exceptions/Reporter.java":[351, 530]}}
+,"34": {"4":{"org/mockito/exceptions/Reporter.java":[350, 485]}}
+,"16": {"4":{"org/mockito/exceptions/Reporter.java":[350, 485]}}
+,"17": {"4":{"org/mockito/exceptions/Reporter.java":[350, 485]}}
+,"35": {"4":{"org/mockito/exceptions/Reporter.java":[350, 485]}}
+,"36": {"4":{"org/mockito/exceptions/Reporter.java":[350, 485]}}
+,"37": {"4":{"org/mockito/exceptions/Reporter.java":[350, 476]}}
+,"38": {"4":{"org/mockito/exceptions/Reporter.java":[350, 465]}}
+}
+,
+{
+"bug": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[91]}}
+,"6": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[96]}}
+,"7": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[96]}}
+,"8": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[96]}}
+,"9": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[96]}}
+,"21": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[96]}}
+,"10": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[96]}}
+,"11": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[73]}}
+,"22": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[72]}}
+,"23": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[72]}}
+,"24": {"5":{"org/mockito/internal/verification/VerificationOverTimeImpl.java":[72]}}
+,"c8f5d57e3d01f4367db626ff5e63a5aa7564b47c": "failed"
+}
+,
+{
+"bug": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"7": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"8": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"9": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"21": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"10": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"11": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"22": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"23": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"24": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"25": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 292, 309, 324, 339, 358, 373, 392, 407, 427, 442, 461]}}
+,"26": {"6":{"org/mockito/Matchers.java":[122, 137, 152, 167, 182, 197, 212, 227, 244, 293, 310, 325, 340, 359, 374, 393, 408, 428, 443, 462]}}
+,"27": {"6":{"org/mockito/Matchers.java":[112, 123, 134, 145, 156, 167, 178, 189, 202, 247, 260, 271, 282, 297, 308, 323, 334, 350, 361, 376]}}
+,"28": {"6":{"org/mockito/Matchers.java":[111, 122, 133, 144, 155, 166, 177, 188, 201, 245, 258, 269, 280, 294, 305, 319, 330, 346, 359, 371]}}
+,"29": {"6":{"org/mockito/Matchers.java":[111, 122, 133, 144, 155, 166, 177, 188, 201, 245, 258, 269, 280, 294, 305, 319, 330, 346, 359, 371]}}
+,"30": {"6":{"org/mockito/Matchers.java":[111, 122, 133, 144, 155, 166, 177, 188, 201, 245, 258, 269, 280, 294, 305, 319, 330, 346, 359, 371]}}
+,"31": {"6":{"org/mockito/Matchers.java":[111, 122, 133, 144, 155, 166, 177, 188, 201, 245, 258, 269, 280, 294, 305, 319, 330, 346, 359, 371]}}
+,"15": {"6":{"org/mockito/Matchers.java":[111, 122, 133, 144, 155, 166, 177, 188, 201, 245, 258, 269, 280, 294, 305, 319, 330, 346, 359, 371]}}
+,"32": {"6":{"org/mockito/Matchers.java":[111, 122, 133, 144, 155, 166, 177, 188, 201, 245, 258, 269, 280, 294, 305, 319, 330, 346, 359, 371]}}
+,"33": {"6":{"org/mockito/Matchers.java":[111, 122, 133, 144, 155, 166, 177, 188, 201, 245, 258, 269, 280, 294, 305, 319, 330, 346, 359, 371]}}
+,"12": {"6":{"org/mockito/Matchers.java":[106, 117, 128, 139, 150, 161, 172, 183, 196, 240, 253, 264, 275, 289, 300, 314, 325, 341, 354, 366]}}
+,"13": {"6":{"org/mockito/Matchers.java":[106, 117, 128, 139, 150, 161, 172, 183, 196, 240, 253, 264, 275, 289, 300, 314, 325, 341, 354, 366]}}
+,"14": {"6":{"org/mockito/Matchers.java":[106, 117, 128, 139, 150, 161, 172, 183, 196, 240, 253, 264, 275, 289, 300, 314, 325, 341, 354, 366]}}
+,"34": {"6":{"org/mockito/Matchers.java":[106, 117, 128, 139, 150, 161, 172, 183, 194, 238, 251, 262, 273, 287, 298, 312, 323, 339, 352, 364]}}
+,"16": {"6":{"org/mockito/Matchers.java":[106, 117, 128, 139, 150, 161, 172, 183, 194, 238, 251, 262, 273, 287, 298, 312, 323, 339, 352, 364]}}
+,"17": {"6":{"org/mockito/Matchers.java":[106, 117, 128, 139, 150, 161, 172, 183, 194, 238, 251, 262, 273, 287, 298, 312, 323, 339, 352, 364]}}
+,"35": {"6":{"org/mockito/Matchers.java":[106, 117, 128, 139, 150, 161, 172, 183, 194, 238, 251, 262, 273, 287, 298, 312, 323, 339, 352, 364]}}
+,"36": {"6":{"org/mockito/Matchers.java":[106, 117, 128, 139, 150, 161, 172, 183, 194, 223, 236, 247, 258, 272, 283, 297, 308, 324, 337, 349]}}
+,"37": {"6":{"org/mockito/Matchers.java":[106, 117, 128, 139, 150, 161, 172, 183, 194, 223, 236, 247, 258, 272, 283, 297, 308, 324, 337, 349]}}
+,"38": {"6":{"org/mockito/Matchers.java":[115, 126, 137, 148, 159, 170, 181, 192, 203, 219, 232, 243, 254, 268, 279, 293, 304, 320, 333, 345]}}
+}
+,
+{
+"bug": {"7":{"org/mockito/internal/util/reflection/GenericMetadataSupport.java":[379]}}
+,"3ca1ba3757dc8ecda0e7292599306ab94a611ad6": "failed"
+}
+,
+{
+"bug": {"8":{"org/mockito/internal/util/reflection/GenericMetadataSupport.java":[79]}}
+,"9": {"8":{"org/mockito/internal/util/reflection/GenericMetadataSupport.java":[90]}}
+,"21": {"8":{"org/mockito/internal/util/reflection/GenericMetadataSupport.java":[90]}}
+,"10": {"8":{"org/mockito/internal/util/reflection/GenericMetadataSupport.java":[90]}}
+,"11": {"8":{"org/mockito/internal/util/reflection/GenericMetadataSupport.java":[90]}}
+,"22": {"8":{"org/mockito/internal/util/reflection/GenericMetadataSupport.java":[90]}}
+,"23": {"8":{"org/mockito/internal/util/reflection/GenericMetadataSupport.java":[82]}}
+,"24": {"8":{"org/mockito/internal/util/reflection/GenericMetadataSupport.java":[81]}}
+,"25": {"8":{"org/mockito/internal/util/reflection/GenericMetadataSupport.java":[87]}}
+,"26": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"27": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"28": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"29": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"30": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"31": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"15": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"32": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"33": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"12": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"13": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"14": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"34": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"16": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"17": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"35": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"36": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"37": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+,"38": {"8":{"org/mockito/internal/util/reflection/MockitoGenericMetadata.java":[40]}}
+}
+,
+{
+"bug": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"21": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"10": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"11": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"22": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"23": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"24": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"25": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"26": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"27": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[37]}}
+,"28": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"29": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"30": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"31": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"15": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"32": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"33": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"12": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"13": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"14": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"34": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"16": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"17": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[36]}}
+,"35": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[34]}}
+,"36": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[34]}}
+,"37": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[34]}}
+,"38": {"9":{"org/mockito/internal/stubbing/answers/CallsRealMethods.java":[32]}}
+}
+,
+{
+"bug": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[71, 87, 90, 94, 99]}}
+,"11": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[84, 87, 91, 96]}}
+,"22": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[84, 87, 91, 96]}}
+,"23": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[100, 103, 107, 112]}}
+,"24": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[86, 89, 93, 98]}}
+,"25": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[82, 85, 89]}}
+,"26": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[67, 70]}}
+,"27": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[43, 46]}}
+,"28": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[42, 45]}}
+,"29": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[42, 45]}}
+,"30": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[42, 45]}}
+,"31": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[42, 45]}}
+,"15": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[42, 45]}}
+,"32": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[42, 45]}}
+,"33": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[42, 45]}}
+,"12": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[42, 45]}}
+,"13": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[42, 45]}}
+,"14": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[42, 45]}}
+,"34": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[39, 42]}}
+,"16": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[39, 42]}}
+,"17": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[39, 42]}}
+,"35": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[39, 42]}}
+,"36": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[39, 42]}}
+,"37": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[39, 42]}}
+,"38": {"10":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[39, 42]}}
+}
+,
+{
+"bug": {"11":{"org/mockito/internal/creation/DelegatingMethod.java":[55, 56, 60]}}
+,"e6b782d1b2aadd52534fcbc0871832b3ecda91a9": "failed"
+}
+,
+{
+"bug": {"12":{"org/mockito/internal/util/reflection/GenericMaster.java":[20, 21, 22]}}
+,"13": {"12":{"org/mockito/internal/util/reflection/GenericMaster.java":[20, 21, 22]}}
+,"14": {"12":{"org/mockito/internal/util/reflection/GenericMaster.java":[20, 21, 22]}}
+,"34": {"12":{"org/mockito/internal/util/reflection/GenericMaster.java":[20, 21, 22]}}
+,"16": {"12":{"org/mockito/internal/util/reflection/GenericMaster.java":[20, 21, 22]}}
+,"17": {"12":{"org/mockito/internal/util/reflection/GenericMaster.java":[20, 21, 22]}}
+,"35": {"12":{"org/mockito/internal/util/reflection/GenericMaster.java":[20, 21, 22]}}
+,"36": {"12":{"org/mockito/internal/util/reflection/GenericMaster.java":[20, 21, 22]}}
+,"37": {"12":{"org/mockito/internal/util/reflection/GenericMaster.java":[20, 21, 22]}}
+,"38": {"12":{"org/mockito/internal/util/reflection/GenericMaster.java":[20, 21, 22]}}
+}
+,
+{
+"bug": {"13":{"org/mockito/internal/MockHandler.java":[77, 81, 82, 83]}}
+,"14": {"13":{"org/mockito/internal/MockHandler.java":[75, 79, 80]}}
+,"34": {"13":{"org/mockito/internal/MockHandler.java":[72, 76, 77]}}
+,"16": {"13":{"org/mockito/internal/MockHandler.java":[72, 76, 77]}}
+,"17": {"13":{"org/mockito/internal/MockHandler.java":[72, 76, 77]}}
+,"35": {"13":{"org/mockito/internal/MockHandler.java":[77, 83]}}
+,"36": {"13":{"org/mockito/internal/MockHandler.java":[77, 83]}}
+,"37": {"13":{"org/mockito/internal/MockHandler.java":[77, 83]}}
+,"38": {"13":{"org/mockito/internal/MockHandler.java":[75, 81]}}
+}
+,
+{
+"bug": {"14":{"org/mockito/internal/MockHandler.java":[74, 75, 76, 79], "org/mockito/internal/MockitoCore.java":[73]}}
+,"34": {"14":{"org/mockito/internal/MockHandler.java":[71, 72, 73, 76], "org/mockito/internal/MockitoCore.java":[64]}}
+,"16": {"14":{"org/mockito/internal/MockHandler.java":[71, 72, 73, 76], "org/mockito/internal/MockitoCore.java":[65]}}
+,"17": {"14":{"org/mockito/internal/MockHandler.java":[71, 72, 73, 76], "org/mockito/internal/MockitoCore.java":[65]}}
+,"35": {"14":{"org/mockito/internal/MockHandler.java":[76, 77, 78], "org/mockito/internal/MockitoCore.java":[65]}}
+,"36": {"14":{"org/mockito/internal/MockHandler.java":[76, 77, 78], "org/mockito/internal/MockitoCore.java":[65]}}
+,"37": {"14":{"org/mockito/internal/MockHandler.java":[76, 77, 78], "org/mockito/internal/MockitoCore.java":[65]}}
+,"38": {"14":{"org/mockito/internal/MockHandler.java":[74, 75, 76], "org/mockito/internal/MockitoCore.java":[69]}}
+}
+,
+{
+"bug": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"32": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"33": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"12": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"13": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"14": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"34": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"16": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"17": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"35": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"36": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"37": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+,"38": {"15":{"org/mockito/internal/configuration/injection/FinalMockCandidateFilter.java":[25, 26]}}
+}
+,
+{
+"bug": {"16":{"org/mockito/Mockito.java":[827, 899], "org/mockito/internal/MockitoCore.java":[32, 33, 35, 36]}}
+,"17": {"16":{"org/mockito/Mockito.java":[826, 898], "org/mockito/internal/MockitoCore.java":[32, 33, 35, 36]}}
+,"35": {"16":{"org/mockito/Mockito.java":[835, 907], "org/mockito/internal/MockitoCore.java":[32, 33, 36]}}
+,"36": {"16":{"org/mockito/Mockito.java":[835, 907], "org/mockito/internal/MockitoCore.java":[32, 33, 36]}}
+,"37": {"16":{"org/mockito/Mockito.java":[835, 907], "org/mockito/internal/MockitoCore.java":[32, 33, 36]}}
+,"38": {"16":{"org/mockito/Mockito.java":[775], "org/mockito/internal/MockitoCore.java":[36, 37, 40]}}
+}
+,
+{
+"bug": {"17":{"org/mockito/internal/creation/MockSettingsImpl.java":[22, 74], "org/mockito/internal/util/MockUtil.java":[45, 46, 47]}}
+,"35": {"17":{"org/mockito/internal/creation/MockSettingsImpl.java":[18, 71], "org/mockito/internal/util/MockUtil.java":[46, 47, 48]}}
+,"36": {"17":{"org/mockito/internal/creation/MockSettingsImpl.java":[18, 71], "org/mockito/internal/util/MockUtil.java":[46, 47, 48]}}
+,"37": {"17":{"org/mockito/internal/creation/MockSettingsImpl.java":[18, 71], "org/mockito/internal/util/MockUtil.java":[46, 47, 48]}}
+,"38": {"17":{"org/mockito/internal/creation/MockSettingsImpl.java":[70], "org/mockito/internal/util/MockUtil.java":[42, 43, 44]}}
+}
+,
+{
+"bug": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"19": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"2": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"4": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"20": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"5": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"6": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"7": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"8": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"9": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"21": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"10": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"11": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"22": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"23": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"24": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115]}}
+,"25": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102]}}
+,"26": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117]}}
+,"27": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[90, 92, 94, 96, 98, 100, 102, 104, 106, 108, 110, 112, 114, 116, 118]}}
+,"28": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117]}}
+,"29": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117]}}
+,"30": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117]}}
+,"31": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117]}}
+,"15": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[89, 91, 93, 95, 97, 99, 101, 103, 105, 107, 109, 111, 113, 115, 117]}}
+,"32": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107]}}
+,"33": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107]}}
+,"12": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107]}}
+,"13": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107]}}
+,"14": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107]}}
+,"34": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107]}}
+,"16": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107]}}
+,"17": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99, 101, 103, 105, 107]}}
+,"35": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106]}}
+,"36": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106]}}
+,"37": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104, 106]}}
+,"38": {"18":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100, 102, 104]}}
+}
+,
+{
+"bug": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter.java":[23], "org/mockito/internal/configuration/injection/filter/MockCandidateFilter.java":[15], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[23, 31, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43], "org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter.java":[20, 28]}}
+,"2": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"4": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"20": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"5": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"6": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"7": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"8": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"9": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"21": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"10": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"11": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"22": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"23": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"24": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"25": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[114], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"26": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[104], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[35, 36, 37, 38, 39, 40, 41, 42, 43]}}
+,"27": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[101], "org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java":[36, 37, 38, 39, 40, 41, 42, 43, 44]}}
+,"28": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"29": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"30": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"31": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"15": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"32": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"33": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"12": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"13": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"14": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"34": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"16": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"17": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"35": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"36": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"37": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+,"38": {"19":{"org/mockito/internal/configuration/injection/PropertyAndSetterInjection.java":[85], "org/mockito/internal/configuration/injection/NameBasedCandidateFilter.java":[31, 32, 33, 34, 35, 36, 37, 38, 39]}}
+}
+,
+{
+"bug": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[32, 33, 34, 45]}}
+,"5": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"6": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"7": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"8": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"9": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"21": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"10": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"11": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"22": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"23": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"24": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"25": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"26": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"27": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"28": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"29": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"30": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"31": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"15": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"32": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"33": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"12": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"13": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"14": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"34": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"16": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"17": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"35": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"36": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"37": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+,"38": {"20":{"org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker.java":[127, 128, 151]}}
+}
+,
+{
+"bug": {"21":{"org/mockito/internal/creation/instance/ConstructorInstantiator.java":[17, 20, 24, 25, 26, 29]}}
+,"10": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"11": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"22": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"23": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"24": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"25": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"26": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"27": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"28": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"29": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"30": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"31": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"15": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"32": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"33": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"12": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"13": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"14": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"34": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"16": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"17": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"35": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"36": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"37": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+,"38": {"21":{"org/mockito/internal/creation/instance/ConstructorInstanceFactory.java":[14, 15, 19]}}
+}
+,
+{
+"bug": {"22":{"org/mockito/internal/matchers/Equality.java":[13]}}
+,"920ec4c3efe3133aa5009fcc9757a3cd07c5ac02": "failed"
+}
+,
+{
+"bug": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[44, 45, 48, 49, 50, 51, 52, 99, 100, 114]}}
+,"24": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[48, 49, 50, 51, 86, 87, 100]}}
+,"25": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[48, 49, 50, 51, 82, 83, 96]}}
+,"26": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[33, 34, 35, 36, 69, 78]}}
+,"27": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[25, 26, 27, 28, 38, 47]}}
+,"28": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 25, 26, 27, 37, 46]}}
+,"29": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 25, 26, 27, 37, 46]}}
+,"30": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 25, 26, 27, 37, 46]}}
+,"31": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 25, 26, 27, 37, 46]}}
+,"15": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 25, 26, 27, 37, 46]}}
+,"32": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 25, 26, 27, 37, 46]}}
+,"33": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 25, 26, 27, 37, 46]}}
+,"12": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 25, 26, 27, 37, 46]}}
+,"13": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 25, 26, 27, 37, 46]}}
+,"14": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 25, 26, 27, 37, 46]}}
+,"34": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[20, 21, 22, 23, 33, 42]}}
+,"16": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[20, 21, 22, 23, 33, 42]}}
+,"17": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[20, 21, 22, 23, 33, 42]}}
+,"35": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[20, 21, 22, 23, 33, 42]}}
+,"36": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[20, 21, 22, 23, 33, 42]}}
+,"37": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[20, 21, 22, 23, 33, 42]}}
+,"38": {"23":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[20, 21, 22, 23, 33, 42]}}
+}
+,
+{
+"bug": {"24":{"org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues.java":[76]}}
+,"a0519165bd79442d6d520615c70ad761cca9cb45": "failed"
+}
+,
+{
+"bug": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[53, 56, 68, 81, 82, 83]}}
+,"26": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[37, 40, 67, 68, 69]}}
+,"27": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[28, 31, 36]}}
+,"28": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[27, 30, 35]}}
+,"29": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[27, 30, 35]}}
+,"30": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[27, 30, 35]}}
+,"31": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[27, 30, 35]}}
+,"15": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[27, 30, 35]}}
+,"32": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[27, 30, 35]}}
+,"33": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[27, 30, 35]}}
+,"12": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[27, 30, 35]}}
+,"13": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[27, 30, 35]}}
+,"14": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[27, 30, 35]}}
+,"34": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 27, 32]}}
+,"16": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 27, 32]}}
+,"17": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 27, 32]}}
+,"35": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 27, 32]}}
+,"36": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 27, 32]}}
+,"37": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 27, 32]}}
+,"38": {"25":{"org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs.java":[24, 27, 32]}}
+}
+,
+{
+"bug": {"26":{"org/mockito/internal/util/Primitives.java":[66]}}
+,"27": {"26":{"org/mockito/internal/util/Primitives.java":[64]}}
+,"28": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"29": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"30": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"31": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"15": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"32": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"33": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"12": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"13": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"14": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"34": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"16": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"17": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"35": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"36": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"37": {"26":{"org/mockito/internal/util/Primitives.java":[63]}}
+,"38": {"26":{"org/mockito/internal/util/Primitives.java":[57]}}
+}
+,
+{
+"bug": {"27":{"org/mockito/internal/util/MockUtil.java":[64, 65]}}
+,"28": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"29": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"30": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"31": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"15": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"32": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"33": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"12": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"13": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"14": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"34": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"16": {"27":{"org/mockito/internal/util/MockUtil.java":[65, 66]}}
+,"17": {"27":{"org/mockito/internal/util/MockUtil.java":[56, 57]}}
+,"35": {"27":{"org/mockito/internal/util/MockUtil.java":[57, 58]}}
+,"36": {"27":{"org/mockito/internal/util/MockUtil.java":[57, 58]}}
+,"37": {"27":{"org/mockito/internal/util/MockUtil.java":[57, 58]}}
+,"38": {"27":{"org/mockito/internal/util/MockUtil.java":[53]}}
+}
+,
+{
+"bug": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[93, 94]}}
+,"29": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[74, 75]}}
+,"30": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[74, 75]}}
+,"31": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[74, 75]}}
+,"15": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[74, 75]}}
+,"32": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[113, 114]}}
+,"33": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[113, 114]}}
+,"12": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[113, 114]}}
+,"13": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[113, 114]}}
+,"14": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[113, 114]}}
+,"34": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[112, 113]}}
+,"16": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[112, 113]}}
+,"17": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[112, 113]}}
+,"35": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[112, 113]}}
+,"36": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[112, 113]}}
+,"37": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[112, 113]}}
+,"38": {"28":{"org/mockito/internal/configuration/DefaultInjectionEngine.java":[112, 113]}}
+}
+,
+{
+"bug": {"29":{"org/mockito/internal/matchers/Same.java":[29]}}
+,"af1b08c7b9ee1723b029a7516641e26973a6d6d9": "failed"
+}
+,
+{
+"bug": {"30":{"org/mockito/exceptions/Reporter.java":[438, 441, 442], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[56]}}
+,"31": {"30":{"org/mockito/exceptions/Reporter.java":[438, 441, 442], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[55]}}
+,"15": {"30":{"org/mockito/exceptions/Reporter.java":[438, 441, 442], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[55]}}
+,"32": {"30":{"org/mockito/exceptions/Reporter.java":[438, 441, 442], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[55]}}
+,"33": {"30":{"org/mockito/exceptions/Reporter.java":[432, 435, 436], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[55]}}
+,"12": {"30":{"org/mockito/exceptions/Reporter.java":[426, 429, 430], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[55]}}
+,"13": {"30":{"org/mockito/exceptions/Reporter.java":[426, 429, 430], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[55]}}
+,"14": {"30":{"org/mockito/exceptions/Reporter.java":[425, 428, 429], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[55]}}
+,"34": {"30":{"org/mockito/exceptions/Reporter.java":[413, 416, 417], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[55]}}
+,"16": {"30":{"org/mockito/exceptions/Reporter.java":[413, 416, 417], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[55]}}
+,"17": {"30":{"org/mockito/exceptions/Reporter.java":[413, 416, 417], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[55]}}
+,"35": {"30":{"org/mockito/exceptions/Reporter.java":[413, 416, 417], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[54]}}
+,"36": {"30":{"org/mockito/exceptions/Reporter.java":[413, 416, 417], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[54]}}
+,"37": {"30":{"org/mockito/exceptions/Reporter.java":[413, 416, 417], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[54]}}
+,"38": {"30":{"org/mockito/exceptions/Reporter.java":[413, 416, 417], "org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[52]}}
+}
+,
+{
+"bug": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[60]}}
+,"15": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[60]}}
+,"32": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[60]}}
+,"33": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[60]}}
+,"12": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[60]}}
+,"13": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[60]}}
+,"14": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[60]}}
+,"34": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[60]}}
+,"16": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[60]}}
+,"17": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[60]}}
+,"35": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[59]}}
+,"36": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[59]}}
+,"37": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[59]}}
+,"38": {"31":{"org/mockito/internal/stubbing/defaultanswers/ReturnsSmartNulls.java":[57]}}
+}
+,
+{
+"bug": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[49]}}
+,"33": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[49]}}
+,"12": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[49]}}
+,"13": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[51]}}
+,"14": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[51]}}
+,"34": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[45]}}
+,"16": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[45]}}
+,"17": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[45]}}
+,"35": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[45]}}
+,"36": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[45]}}
+,"37": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[45]}}
+,"38": {"32":{"org/mockito/internal/configuration/SpyAnnotationEngine.java":[45]}}
+}
+,
+{
+"bug": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[97, 98, 99, 100]}}
+,"12": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[97, 98, 99, 100]}}
+,"13": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[97, 98, 99, 100]}}
+,"14": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[97, 98, 99, 100]}}
+,"34": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[96, 97, 98, 99]}}
+,"16": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[96, 97, 98, 99]}}
+,"17": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[96, 97, 98, 99]}}
+,"35": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[92, 93, 94, 95]}}
+,"36": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[91, 92, 93, 94]}}
+,"37": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[91, 92, 93, 94]}}
+,"38": {"33":{"org/mockito/internal/invocation/InvocationMatcher.java":[104, 105, 106, 107]}}
+}
+,
+{
+"bug": {"34":{"org/mockito/internal/invocation/InvocationMatcher.java":[106]}}
+,"16": {"34":{"org/mockito/internal/invocation/InvocationMatcher.java":[106]}}
+,"17": {"34":{"org/mockito/internal/invocation/InvocationMatcher.java":[106]}}
+,"35": {"34":{"org/mockito/internal/invocation/InvocationMatcher.java":[102]}}
+,"36": {"34":{"org/mockito/internal/invocation/InvocationMatcher.java":[101]}}
+,"37": {"34":{"org/mockito/internal/invocation/InvocationMatcher.java":[101]}}
+,"38": {"34":{"org/mockito/internal/invocation/InvocationMatcher.java":[114]}}
+}
+,
+{
+"bug": {"35":{"org/mockito/Matchers.java":[362, 479, 516]}}
+,"36": {"35":{"org/mockito/Matchers.java":[347, 464, 501]}}
+,"37": {"35":{"org/mockito/Matchers.java":[347, 464, 501]}}
+,"38": {"35":{"org/mockito/Matchers.java":[343, 460, 497]}}
+}
+,
+{
+"bug": {"36":{"org/mockito/internal/invocation/Invocation.java":[202]}}
+,"37": {"36":{"org/mockito/internal/invocation/Invocation.java":[202]}}
+,"38": {"36":{"org/mockito/internal/invocation/Invocation.java":[220]}}
+}
+,
+{
+"bug": {"37":{"org/mockito/internal/stubbing/answers/AnswersValidator.java":[27, 28]}}
+,"38": {"37":{"org/mockito/internal/stubbing/answers/AnswersValidator.java":[27, 28]}}
+}
+,
+{
+"bug": {"38":{"org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool.java":[48]}}
+}
+]
