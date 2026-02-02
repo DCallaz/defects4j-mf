@@ -110,7 +110,7 @@
 }
 ,
 {
-"bug": {"5": {"org/jfree/data/xy/XYSeries.java": [545, 546, 547, 548]}}
+"bug": {"5": {"org/jfree/data/xy/XYSeries.java": [544, 545, 546, 547, 548]}}
 ,"6": {"5": {"org/jfree/data/xy/XYSeries.java": [522, 523]}}
 ,"7": {"5": {"org/jfree/data/xy/XYSeries.java": [522, 523]}}
 ,"8": {"5": {"org/jfree/data/xy/XYSeries.java": [522, 523]}}
@@ -363,7 +363,7 @@
 }
 ,
 {
-"bug": {"21": {"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java": [157, 158, 188, 189, 742]}}
+"bug": {"21": {"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java": [157, 158, 188, 189, 739, 740, 741, 742]}}
 ,"22": {"21": {"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java": [156, 188, 189]}}
 ,"23": {"21": {"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java": [145]}}
 ,"24": {"21": {"org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java": [145]}}

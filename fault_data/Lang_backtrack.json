@@ -485,31 +485,31 @@
 }
 ,
 {
-"bug": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 88, 89, 90, 94, 96, 97, 98, 101, 102]}}
-,"18": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [82, 89, 90, 94, 96, 98, 99, 103]}}
-,"19": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [82, 89, 90, 94, 96, 98, 99, 103]}}
-,"20": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [82, 89, 90, 94, 96, 98, 99, 103]}}
-,"21": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 97, 99, 100, 104]}}
-,"22": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 104]}}
-,"23": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 104]}}
-,"24": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 104]}}
-,"25": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 104]}}
-,"26": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 104]}}
-,"27": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 104]}}
-,"28": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"29": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"30": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"31": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"32": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"33": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"34": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"35": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"36": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"37": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"38": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"39": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 103]}}
-,"40": {"17": {"org/apache/commons/lang/text/translate/CharSequenceTranslator.java": [81, 89, 94, 96, 97, 101]}}
-,"41": {"17": {"org/apache/commons/lang/text/translate/CharSequenceTranslator.java": [81, 89, 94, 96, 97, 101]}}
+"bug": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 88, 89, 90, 94, 96, 97, 98, 99, 100, 102]}}
+,"18": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [82, 89, 90, 94, 96, 98, 99, 100, 102]}}
+,"19": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [82, 89, 90, 94, 96, 98, 99, 100, 102]}}
+,"20": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [82, 89, 90, 94, 96, 98, 99, 100, 102]}}
+,"21": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 97, 99, 100, 101, 103]}}
+,"22": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 101, 103]}}
+,"23": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 101, 103]}}
+,"24": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 101, 103]}}
+,"25": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 101, 103]}}
+,"26": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 101, 103]}}
+,"27": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [84, 92, 97, 99, 100, 101, 103]}}
+,"28": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"29": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"30": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"31": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"32": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"33": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"34": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"35": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"36": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"37": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"38": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"39": {"17": {"org/apache/commons/lang3/text/translate/CharSequenceTranslator.java": [83, 91, 96, 98, 99, 100, 102]}}
+,"40": {"17": {"org/apache/commons/lang/text/translate/CharSequenceTranslator.java": [81, 89, 94, 96, 97, 98, 100]}}
+,"41": {"17": {"org/apache/commons/lang/text/translate/CharSequenceTranslator.java": [81, 89, 94, 96, 97, 98, 100]}}
 ,"a2447673d9ca590a3ed967e7a30b1f9cd18e78d1": "failed"
 }
 ,
@@ -1562,10 +1562,10 @@
 }
 ,
 {
-"bug": {"62": {"org/apache/commons/lang/Entities.java": [850, 920, 925, 926]}}
-,"63": {"62": {"org/apache/commons/lang/Entities.java": [845, 911, 916, 918]}}
-,"64": {"62": {"org/apache/commons/lang/Entities.java": [844, 910, 915, 917]}}
-,"65": {"62": {"org/apache/commons/lang/Entities.java": [844, 910, 915, 917]}}
+"bug": {"62": {"org/apache/commons/lang/Entities.java": [850, 919, 920, 925, 926]}}
+,"63": {"62": {"org/apache/commons/lang/Entities.java": [845, 910, 911, 916, 918]}}
+,"64": {"62": {"org/apache/commons/lang/Entities.java": [844, 909, 910, 915, 917]}}
+,"65": {"62": {"org/apache/commons/lang/Entities.java": [844, 909, 910, 915, 917]}}
 }
 ,
 {
