@@ -1,9 +1,9 @@
 diff --git a/framework/bin/defects4j_multi b/framework/bin/defects4j_multi
 new file mode 100755
-index 00000000..6a54cbb9
+index 00000000..46715b2c
 --- /dev/null
 +++ b/framework/bin/defects4j_multi
-@@ -0,0 +1,198 @@
+@@ -0,0 +1,224 @@
 +#!/bin/bash
 +if [ "$D4J_HOME" == "" ]; then
 +  echo "Could not find defects4j home. Please run the following line or add it\
@@ -60,14 +60,18 @@ index 00000000..6a54cbb9
 +  ;;
 +  "info")
 +    shift 1
-+    usage="USAGE: defects4j_multi info -p <project> [-v <version>]"
-+    while getopts ":p:v:h" flag ;do
++    usage="USAGE: defects4j_multi info -p <project> [-v <version>] [-m]
++    where -m specifies that machine-readable output should be generated."
++    while getopts ":p:v:mh" flag ;do
 +      case ${flag} in
 +        p)
 +          project=${OPTARG}
 +        ;;
 +        v)
 +          version=${OPTARG}
++        ;;
++        m)
++          ml=1
 +        ;;
 +        h)
 +          echo "$usage"
@@ -93,38 +97,60 @@ index 00000000..6a54cbb9
 +      fi
 +    fi
 +    if [ -z "$version" ]; then
-+      echo "Summary for Project: $project"
-+      echo "+------------------------------------------------------------------------------+"
-+      echo "| Version | Identified bugs                                                    |"
-+      echo "+------------------------------------------------------------------------------+"
 +      versions="$(python3 $D4J_HOME/framework/bin/scripts/dump_versions.py $project)"
-+      for version in $versions; do
-+        v="${version##*-}"
-+        bugs="$(echo ${version#*-} | tr "-" "\n" | sort -g | xargs | sed 's/ /, /g')"
-+        printf "| %-7s | %-66s |\n" $v "$bugs"
-+      done
-+      echo "+------------------------------------------------------------------------------+"
-+      echo "For information on a particular version, please use the '-v <version>' option"
++      if [ ! -z "$ml" ]; then
++        for version in $versions; do
++          v="${version##*-}"
++          bugs="$(echo ${version#*-} | tr "-" "\n" | sort -g | xargs | sed 's/ /,/g')"
++          echo "$v:$bugs"
++        done
++      else
++        echo "Summary for Project: $project"
++        echo "+------------------------------------------------------------------------------+"
++        echo "| Version | Identified bugs                                                    |"
++        echo "+------------------------------------------------------------------------------+"
++        for version in $versions; do
++          v="${version##*-}"
++          bugs="$(echo ${version#*-} | tr "-" "\n" | sort -g | xargs | sed 's/ /, /g')"
++          printf "| %-7s | %-66s |\n" $v "$bugs"
++        done
++        echo "+------------------------------------------------------------------------------+"
++        echo "For information on a particular version, please use the '-v <version>' option"
++      fi
 +    else
-+      echo "Summary for project $project version: $version"
 +      bugs="$(python3 $D4J_HOME/framework/bin/scripts/dump_versions.py $project |
 +        grep "\-$version$")"
 +      bugs="$(echo ${bugs#*-} | tr "-" "\n" | sort -g | xargs)"
-+      echo "+------------------------------------------------------------------------------------------------+"
-+      echo "| Version | Identified bugs                                                                      |"
-+      echo "+------------------------------------------------------------------------------------------------+"
-+      printf "| %-7s | %-84s |\n" $version "$(echo $bugs | sed 's/ /, /g')"
-+      echo "+------------------------------------------------------------------------------------------------+"
-+      echo "| Bug     | Locations                                                                            |"
-+      echo "+------------------------------------------------------------------------------------------------+"
-+      for bug in ${bugs}; do
-+        locs=($(python3 $D4J_HOME/framework/bin/scripts/backtrack.py "$project" "$bug" "$version"))
-+        for loc in "${locs[@]}"; do
-+          printf "| %-7s | %-84s |\n" "$bug" "$loc"
-+          bug=" "
++      if [ ! -z "$ml" ]; then
++        echo ${bugs// /,}
++        for bug in ${bugs}; do
++          locs=($(python3 $D4J_HOME/framework/bin/scripts/backtrack.py "$project" "$bug" "$version"))
++          printf "%s:" "$bug"
++          join_arr() {
++            local IFS="$1"
++            shift
++            echo "$*"
++          }
++          join_arr ';' "${locs[@]}"
 +        done
-+      done
-+      echo "+------------------------------------------------------------------------------------------------+"
++      else
++		    echo "Summary for project $project version: $version"
++		    echo "+------------------------------------------------------------------------------------------------+"
++		    echo "| Version | Identified bugs                                                                      |"
++		    echo "+------------------------------------------------------------------------------------------------+"
++		    printf "| %-7s | %-84s |\n" $version "$(echo $bugs | sed 's/ /, /g')"
++		    echo "+------------------------------------------------------------------------------------------------+"
++		    echo "| Bug     | Locations                                                                            |"
++		    echo "+------------------------------------------------------------------------------------------------+"
++		    for bug in ${bugs}; do
++		      locs=($(python3 $D4J_HOME/framework/bin/scripts/backtrack.py "$project" "$bug" "$version"))
++		      for loc in "${locs[@]}"; do
++		        printf "| %-7s | %-84s |\n" "$bug" "$loc"
++		        bug=" "
++		      done
++		    done
++      	echo "+------------------------------------------------------------------------------------------------+"
++      fi
 +    fi
 +  ;;
 +  "coverage")
