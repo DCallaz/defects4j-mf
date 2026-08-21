@@ -1020,23 +1020,31 @@ index 00000000..5d2f9764
 +#awk -i inplace "$awkCmd" sfl/txt/spectra.csv
 diff --git a/framework/bin/scripts/identify_bugs.sh b/framework/bin/scripts/identify_bugs.sh
 new file mode 100755
-index 00000000..aea2037c
+index 00000000..7af84ede
 --- /dev/null
 +++ b/framework/bin/scripts/identify_bugs.sh
-@@ -0,0 +1,122 @@
+@@ -0,0 +1,130 @@
 +#!/bin/bash
 +# This script assumes that `defects4j coverage` has already been run
-+coverage="sfl/txt"
-+help_message="USAGE: identify [-p <project> [-b \"<bug> ...\" OR -v <version>]] [-c <coverage dir>]"
++input="sfl/txt/spectra.csv"
++sep="$"
++help_message="USAGE: identify [-p <project> [-b \"<bug> ...\" OR -v <version>]] [-c <coverage dir> OR -i <input file>] [-s <separator>]
++  where <separator> is the (set of) character(s) in the input file which appear after the element name."
 +if [ -f ".defects4j.config" ]; then
 +  full_mf_version="$(grep "multi=" ".defects4j.config" 2>&1 | cut -d '=' -f 2)"
 +  project="$(echo "$full_mf_version" | cut -d '-' -f 1)"
 +  version="$(echo "$full_mf_version" | rev | cut -d '-' -f 1 | rev)"
 +fi
-+while getopts ":c:b:p:v:hq" flag ;do
++while getopts ":c:i:s:b:p:v:hq" flag ;do
 +  case ${flag} in
 +    c)
-+      coverage=${OPTARG}
++      input="${OPTARG}/spectra.csv"
++      ;;
++    i)
++      input=${OPTARG}
++      ;;
++    s)
++      sep=${OPTARG}
 +      ;;
 +    b)
 +      bugs=${OPTARG}
@@ -1085,7 +1093,7 @@ index 00000000..aea2037c
 +  echo "$help_message"
 +  exit 1
 +fi
-+if [ ! -d "$coverage" ]; then
++if [ ! -f "$input" ]; then
 +  echo "ERROR: could not find collected coverage, aborting..."
 +  exit 1
 +fi
@@ -1123,10 +1131,10 @@ index 00000000..aea2037c
 +        #i=1
 +        for line in ${lines[@]:1}; do
 +          # check if there are buggy lines not yet identified
-+          gr=$(grep "$path\$$file\(#\|\\$\).*:$line$" $coverage/spectra.csv)
++          gr=$(grep "$path\$$file\(#\|\\$\).*:$line$sep" $input)
 +          if [ ! -z "$gr" ]; then
 +            # modify those lines to have the fault
-+            sed -i "/$path\$$file\(#\|\\$\).*:$line$/s/$/:$bug/" $coverage/spectra.csv
++            sed -i "/$path\$$file\(#\|\\$\).*:$line$sep/s/\($sep\)/:$bug\1/" $input
 +            #echo "Injected fault $bug.$j.$i"
 +            found=1
 +          #else
